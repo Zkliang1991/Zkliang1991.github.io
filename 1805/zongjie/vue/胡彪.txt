@@ -1,0 +1,13 @@
+vue 项目总结
+
+此次vue项周 我写的是仿鸿雁传书app  是一个看书的手机app  
+写项目的过程中遇到了很多问题、也学到了很多
+
+vuex是vue的状态管理模式、它采用集中式的存储管理应用的所有组件的状态
+vuex适用于比较复杂的逻辑、适用于多个视图依赖于同一逻辑、适用于来自不同视图的行为需要变更同一状态
+
+vuex原理：view发出一个action、匹配到对应的动作（action）会显示的提交（commit）某种管路变异类型、匹配到对应的管理异变 (mutation)  就直接去修改(mutate  集中式管理) state  、vuex 检测变化的 state ,马上去 render (二次渲染) 组件 
+
+四个辅助函数：mapState、mapActions、mapGetters、mapMutations
+
+项目结束后、我发现有很多学的知识点没能运用到我的项目中  以后还得好好学习啊
