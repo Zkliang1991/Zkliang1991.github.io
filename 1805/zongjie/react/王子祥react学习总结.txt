@@ -1,0 +1,8 @@
+在学习react以及写完react项目后我觉得我懂得了
+1.react-redux的架构流程是：容器组件触发事件，发出action，reducer接收action 
+修改state  state被修改后render二次渲染。
+2.react的生命周期函数应该如何使用，什么时候使用
+3.在写项目的过程中我还发现了react也像vue一样检测不到对象和数组的变化，对于这个问题。
+只要在发出action后写this.forceUpdate()就可以二次渲染
+4.react能不要做dom操作就别做
+5.如何发出异步请求 以及回调
