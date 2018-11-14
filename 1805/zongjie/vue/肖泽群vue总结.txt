@@ -1,0 +1,89 @@
+一.环境搭建
+   （1）vue vue-cli环境
+        安装过程：
+# 全局安装 vue-cli
+      $ npm install --global vue-cli
+# 创建一个基于 webpack 模板的新项目
+$ vue init webpack my-project
+# 安装依赖，走你
+$ cd my-project
+$ npm install
+$ npm run dev
+        参考菜鸟驿站：http://www.runoob.com/vue2/vue-install.html
+  （2）nuxt 服务端坏境搭建
+nuxt 相关的脚手架已经集成到了 vue-cli，同时提供 starter、express、koa、adonuxt
+npm install -g vue-cli
+vue init nuxt/starter <project-name>
+cd <project-name> 
+npm install
+npm run dev
+参考文档：https://zh.nuxtjs.org/guide/installation#新手模板
+ 二.把整个项目clone下来，使用git clone 地址
+ 三.vue 常用知识
+    1. 样式绑定：
+       基础： <div v-bind:class="{ active: isActive }"></div> active--class  isActive条件判断
+       常用：三元运算符  <span @click="showcon" :class="isActive ? 'show': 'not-info'">{{seller.bulletin}}</span> show ,not-info都属于class
+       router-link样式切换：<router-link to="/about">About</router-link>，只需要为添加.router-link-active 指定样式即可
+       注意事项：需要使用{}花括号，条件判断一般通过事件
+    2. 列表渲染 v-for
+       https://cn.vuejs.org/v2/guide/list.html
+       注意：列表渲染中的  显示过滤/排序结果 computed 和methods 的使用情况
+   3. 条件渲染 v-if v-show 注意二者的区别
+       用法：https://cn.vuejs.org/v2/guide/conditional.html
+   4. 过滤器：全局过滤和局部过滤器
+       应用场景：文本格式化，在vue中主要应用在{{}}和v-bind 表达式中
+       语法：{{ msg | 函数}}   <div v-bind:id="rawId | formatId"></div>  注意：函数第一个参数总是表达式的值
+       例子： <p>{{ msg | formatMoney}}</p>  金额保留2位小数
+      data:function(){
+return{
+msg:123
+}
+       },
+              filters: {
+formatMoney: function(value){
+return  value.toFixed(2);
+}
+      }
+              输出：123.00
+         具体查看官网：https://cn.vuejs.org/v2/guide/filters.html#ad   
+     5. 组件：
+        （1）创建组件
+             nuxt环境中创建组件很简单，只需要在components中创建.vue文件即可，语法和pages里的.vue文件一样，引入时只需要在pages 里的.vue文件中import，components中注册即可。
+             具体：components:{mychild:child}
+             vue 单页面环境中，基本和nuxt的方法一样，只是import 路径稍有不同
+             nuxt     import child from '~/components/child.vue'
+             vue      import child from './components/child.vue'
+         (2)组件的传递使用prop
+         (3）ref
+             ref=""一个引用id 注册引用信息
+  第一：在普通的DOM元素上使用，引用指向的就是DOM元素。访问方式this.$refs.引用ID。
+        eg:使用的一种情况乱，获取文本框的值
+<div id="app">
+<input type="text" value=""  ref="msg" v-model="message"/>
+<button @click="saveMsg">提交</button>
+</div>
+<script src="js/vue.js"></script>
+<script type="text/javascript">
+new Vue({
+el:'#app',
+data:{
+message:''
+},
+methods:{
+saveMsg:function(){
+const text = this.$refs.msg.value+"成功";
+console.log(text)
+}
+}
+})
+    第二：被用来给子组件注册引用信息，直接访问子组件，访问方式this.$refs.引用ID.具体访问内容
+     6.过渡&动画<transition></transition >
+     7.深入响应式原理 主要讲set
+          Vue 不允许在已经创建的实例上动态添加新的根级响应式属性。然而它可以使用 Vue.set(object, key, value) 方法将响应属性添加到嵌套的对象上：
+        Vue.set(vm.someObject, key, value) or this.$set(this.someObject,key,value)
+
+          注意：nuxt 服务端渲染建议不使用Vue.set,使用this.$set.
+
+         个人理解：就是给对象中添加需要用到的属性但对象中木有。
+
+     8.axios 的使用
