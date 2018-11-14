@@ -1,0 +1,106 @@
+这次vue写的是音乐项目，让我了解了许多关于audio标签的方法与属性，autoplay,音乐加载后自动播放
+canPlayType()	检测浏览器是否能播放指定的音频/视频类型
+load()	重新加载音频/视频元素
+play()	开始播放音频/视频
+pause()	暂停当前播放的音频/视频
+等等....
+另外写vue项目让我也逐渐了解了vue框架的用法比如它的生命周期函数
+
+beforeCreate: vue实例化的挂载元素$el和数据对象data都是为undefined，还没初始化，可以做的事情，加loading事件。
+
+created： vue实例的数据对象data有了，$el还没有， 可以做的事情：结束loading、请求数据为mounted渲染做准备
+
+beforeMount vue实例的$el和data都初始化了，但还是虚拟的dom节点，具体的data.filter还未替换。
+
+mounted: vue实例挂载完成，data.filter成功渲染,可以做的事：配合路由钩子使用。
+
+beforeUpdate: data更新时触发
+
+updated :data更新时触发 ：可以做的事：数据更新时，做一些处理（此处也可以用watch进行观测）
+
+beforeDestroy :组件销毁时触发
+
+destroyed:组件销毁时触发，vue实例解除了事件监听以及和dom的绑定（无响应了），但DOM节点依旧存在 可以做的事：组件销毁的提示。
+
+filter(过滤器):
+过滤器可以用在两个地方：双花括号插值和 v-bind 表达式 (后者从 2.1.0+ 开始支持)。过滤器应该被添加在 JavaScript 表达式的尾部，由“管道”符号指示：
+
+<!-- 在双花括号中 -->
+{{ message | capitalize }}
+
+<!-- 在 `v-bind` 中 -->
+<div v-bind:id="rawId | formatId"></div>
+你可以在一个组件的选项中定义本地的过滤器：
+
+filters: {
+  capitalize: function (value) {
+    if (!value) return ''
+    value = value.toString()
+    return value.charAt(0).toUpperCase() + value.slice(1)
+  }
+}
+或者在创建 Vue 实例之前全局定义过滤器：
+
+Vue.filter('capitalize', function (value) {
+  if (!value) return ''
+  value = value.toString()
+  return value.charAt(0).toUpperCase() + value.slice(1)
+})
+
+new Vue({
+  // ...
+})
+和vue 导航守卫
+const router = new VueRouter({ ... })  
+  
+router.beforeEach((to, from, next) => {  
+  // ...  
+})  to: Route: 即将要进入的目标 路由对象
+
+from: Route: 当前导航正要离开的路由
+
+next: Function: 一定要调用该方法来 resolve 这个钩子。执行效果依赖 next 方法的调用参数。
+
+computed计算属性监听:对于任何复杂逻辑，你都应当使用计算属性。
+
+以及vuex:Vuex 是什么？
+Vuex 是一个专为 Vue.js 应用程序开发的状态管理模式。 Vuex 的状态存储是响应式的。数据发生变化，相应的组件也会变化。
+
+slot用法：<children>  
+    <span slot="name1">12345</span>
+</children>
+
+//子
+components: {
+    children: {
+        template: "<button>
+                        <slot name="name1"></slot>
+                        button标签
+                    </button>"
+    }
+}
+
+
+vue是什么：vue是一套构建用户界面的渐进式框架，特点：简洁、轻量、组件化、快速、数据驱动、模块友好
+vue主要内容：
+指令
+
+事件
+
+钩子(生命周期)
+
+路由(Router)
+
+过滤器
+
+动画属性
+
+交互(ajax)
+
+自定义指令(封装)
+
+组件
+
+VUEX(超大项目、难)
+
+页面框架【ELEMENTUI(PC端)、MINTUI(手机端)】

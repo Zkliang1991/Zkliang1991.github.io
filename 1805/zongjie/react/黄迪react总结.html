@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>react</title>
+    <style>
+        html,
+        body {
+            width: 80%;
+            margin: auto;
+        }
+
+        h1 {
+            text-align: center;
+
+        }
+
+        p {
+            text-indent: 2em;
+        }
+    </style>
+</head>
+
+<body>
+    <h1>react总结</h1>
+    <div class="box">
+            <a href=" http://106.14.201.102/hd/myreact/#/app/movie"> 我的react项目</a>
+
+        <p>
+            react项目采用了webpack + redux +redux-router技术
+            saga异步请求和promise 中间件异步请求
+            antd moblie 样式库 swiper轮播图组件
+            后台使用node.js+express和Mongodb数据库进行数据的增删改查
+        </p>
+        <p>
+            react项目中遇到的一些问题：
+        </p>
+        <ul>
+            <li>
+                1.使用redux对react的数据单项流程控制的过程中，在虚拟dom的componentwillmount生命周期进行ajax数据请求的时候，由于异步的原因，导致对返回数据在success函数里面的处理不会生效，需要在reducers里面进行数据的处理。
+            </li>
+            <li> 2，样式冲突问题
+                虽然我们引入了css-modules，但是我们却发现这样一个现象：首次打开A页面，引入了A的css文件，这时候再打开B界面，又引入了B的css文件，而A的css文件还在，再打开C界面，又引入了C的css文件，而此时已经有了A，B，C三个css文件了。这样就会发生样式命名上的冲突。我们期望的效果是打开A，只有A的css，打开B，只有B的css。我又看了一下vue的实现，vue也是这样。
+                解决方法：在每个组件的最外面div设一个classname，然后在对应的css文件最外层就包一个这个classname，这样就能简单的解决样式冲突问题
+                </li>
+            <li>3.在React项目中使用Echarts等插件的时候，在componentDidMount中执行绘制图表的函数echarts.init(#id)，提示获取不到宽高，因此，绘制出来的图表呈现出压扁的状态（或者没有绘制）在执行componentDidMount的时候，页面还没有完全渲染完成样式表，导致获取不到完整高度
+                我给出的处理方法是给componentDidMount中的实例化函数加上一个延时器，配合Toast插件让页面渲染变得自然。
+                </li>
+        </ul>
+    </div>
+
+</body>
+
+</html>
