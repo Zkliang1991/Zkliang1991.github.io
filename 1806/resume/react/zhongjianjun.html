@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>总结</title>
+</head>
+<body>
+    <h1>react 总结</h1>
+    <dl>
+        <dt>react项目中遇到的一些问题</dt>
+        <dd>1、商品详情收藏有bug，刚开始时定义变量count为0，用if判断count%2为偶数时加一，为奇数减一;组件样式color=count%2==0？"red":"#000";这样的出现的bug就是当其他商品进入详情时收藏确实上个商品的收藏样式；后面我更改在componentWillMount里初始count为0；这样出现的bug就是每次进入商品详情时商品收藏样式都是默认没有收藏，第一次点击收藏但实际后台数据库已经作了判断，样式也就正常了，在componentWillMount时就向后端发送请求判断用户是否收藏，但这样向后台请求次数太多，有没有更好的方法？？？？暂没有想出来</dd>
+        <dd>
+            2、项目安装在手机上时发现一个bug，就是不能往上滑动，必需向下滑动再往上滑动才可以滑动，如何向下再向上中途松开了也不能往上滑动；查找原因时发现是因为引入PullToRefresh<span style="color:red">direction={ 'down' } onRefresh={() => {
+                    this.setState({ refreshing: true });
+                    setTimeout(() => {
+                        this.setState({ refreshing: false });
+                    }, 1000);
+                    
+                }}</span>refreshing为true时就可以向下向上滑动
+        </dd>
+    </dl>
+
+</body>
+</html>
