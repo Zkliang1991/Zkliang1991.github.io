@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>React总结</title>
+</head>
+<body>
+    <h3>项目亮点：</h3>
+      <p>  1.运用react-redux</p>
+       <p> 2.商品都可以收藏，用户会有自己的收藏列表</p>
+       <p> 3.页面有动画效果</p>
+        <p>4.会有验证码，但是是自己后台手动生成，不是真正的短信接口</p>
+
+   <h3> 总结：</h3>
+        <p>1.对于react-redux的架构思想有了更深入的理解</p>
+       <p> 2.直接从reducer中取数据会容易造成异步效果，页面刚加载时取值可能为空,用户在视图层的行为产生action时，
+        可以在传参同时传入回调函数，在得到请求结果后，直接通过回调先返回实时结果</p>
+        <p>3.react-redux对于小型项目而言，会显得过于繁杂</p>
+</body>
+</html>
