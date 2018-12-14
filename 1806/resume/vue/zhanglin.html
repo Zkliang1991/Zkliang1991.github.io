@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>总结</title>
+</head>
+
+<body>
+    <h4>vue 和 angular 对比</h4>
+    <h4>1.vue 的设计理念大多都是参考angular</h4>
+    <button> 棒棒的 大佐 佐佐我是你大哥，请多关照</button>
+    <p>1.vue 的设计理念大多都是参考angular 2.vue 较 angular 比较简单 3.vue 比 angular 小巧 ,轻量 ,运行速度比angular 快 4.vue 和 angular 都在html 绑定 数据,通过 bind {{}} 5.vue 和 angular 都是指令化, vue 指令 v-xxx ,angluar 指令 ng-xxx; 6.vue 的数据 放在 data, angular 的 数据放在 $scope 对象 7.vue 有组件化概念 ,angular没有,
+        angular 但是有服务</p>
+
+    <h6>
+        3.angular a. 依赖注入 b. 数据双向绑定 c. 单元测试 d. MVC设计模式 (model view controller) e. 可以自定义指令，自定义过滤器
+
+    </h6>
+    <div>
+        1.Vue之实例属性 一、 组件树 1. $parent：用来访问组件实例的父实例 2. $root: 用来访问当前组件树的根实例 3. $children:用来访问当前组件实例的直接子组件实例 4. $refs:用来访问v-ref指令的子组件 二、DOM访问 1. $el：用来挂载当前组件实例的dom元素 2. $els：用来访问$el元素中使用了v-el指令的DOM元素 三、数据访问 1. $data：用来访问组件实例观察的数据对象 2. $options：用来访问组件实例化时的初始化选项对象
+        四、DOM方法的使用 1. $appendTo(elementOrSelector, callback)：将el所指的DOM元素插入目标元素 2. $before(elementOrSelector, callback)：将el所指的DOM元素或片段插入目标元素之前 3. $after(elementOrSelector, callback)：将el所指的DOM元素或片段插入目标元素之后 4. $remove(callback)：将el所指的DOM元素或片段从DOM中删除 5. $nextTick(callback)：用来在下一次DOM更新循环后执行指定的回调函数
+        五、event方法的使用 1. 监听 1）$on(event, callback)：监听实例的自定义事件 2）$once(event, callback)：同上，但只能触发一次 2. 触发 1）$dispatch(event, args)：派发事件，先在当前实例触发，再沿父链一层层向上，对应的监听函数返回false停止 2）$broadcast(event, args)：广播事件，遍历当前实例的$children，如果对应的监听函数返回false，就停止 3）$emit(event,
+        args)：触发事件 $off(event, callback)：删除时间监听
+    </div>
+
+</body>
+
+</html>
