@@ -1,107 +1,18 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-	<meta charset="UTF-8">
-	<title>vue-summary</title>
-</head>
-<style>
-
-	body{
-		width:80%;
-		border: 1px solid orange;
-		margin: 30px auto;
-		padding: 20px;
-	}
-</style>
-<body>
-<h3>vue学习总结</h3>
-<blockquote><p>	Vue是一套用于构建用户界面的<strong>渐进式框架</strong>，vue的核心库只关注<code>view</code>视图层。学习中的重点有组件、指令、路由，以及Vuex。</p>
-</blockquote>
-<h4>组件</h4>
-<ol>
-<li><p>组件注册</p>
-<ul>
-<li><p>使用 kebab-case</p>
-<pre><code class='language-javascript' lang='javascript'>Vue.component(&#39;my-component-name&#39;, { /* ... */ })
-</code></pre>
-</li>
-<li><p>使用 PascalCase</p>
-<pre><code class='language-javascript' lang='javascript'>Vue.component(&#39;MyComponentName&#39;, { /* ... */ })
-</code></pre>
-<blockquote><p><code>Vue.component</code> 来注册全局组件</p>
-</blockquote>
-</li>
-
-</ul>
-</li>
-<li><p>自定义组件</p>
-</li>
-
-</ol>
-<h4>指令</h4>
-<ol>
-<li><p>核心功能默认内置的指令</p>
-<ul>
-<li>v:text : 更新元素的 textContent</li>
-<li> v-html : 更新元素的 innerHTML</li>
-<li>v-if : 如果为 true, 当前标签才会输出到页面</li>
-<li> v-else: 如果为 false, 当前标签才会输出到页面</li>
-<li>v-show : 通过控制 display 样式来控制显示/隐藏</li>
-<li>v-for : 遍历数组/对象</li>
-<li>v-on : 绑定事件监听, 一般简写为@</li>
-<li> v-bind : 强制绑定解析表达式, 可以省略 v-bind</li>
-<li>v-model : 双向数据绑定</li>
-<li> ref : 指定唯一标识, vue 对象通过$els 属性访问这个元素对象</li>
-<li> v-cloak : 防止闪现, 与 css 配合: [v-cloak] { display: none }</li>
-
-</ul>
-</li>
-<li><p>自定义指令</p>
-<blockquote><p>实现对普通 DOM 元素进行底层操作</p>
-</blockquote>
-<pre><code class='language-javascript' lang='javascript'>// 注册一个全局自定义指令 `v-focus`
-Vue.directive(&#39;focus&#39;, {
-  // 当被绑定的元素插入到 DOM 中时……
-  inserted: function (el) {
-    // 聚焦元素
-    el.focus()
-  }
-})
-</code></pre>
-<pre><code class='language-javascript' lang='javascript'>//如果想注册局部指令，组件中也接受一个 directives 的选项：
-directives: {
-  focus: {
-    // 指令的定义
-    inserted: function (el) {
-      el.focus()
-    }
-  }
-}
-</code></pre>
-</li>
-
-</ol>
-<h4>路由</h4>
-<blockquote><p>对于大多数单页面应用，都推荐使用官方支持的 <a href='https://github.com/vuejs/vue-router'>vue-router 库</a>。更多细节可以看 <a href='https://router.vuejs.org/'>vue-router 文档</a></p>
-</blockquote>
-<p>创建路由的步骤：</p>
-<ol>
-<li>如果使用模块化机制编程，导入Vue和VueRouter，要调用 Vue.use(VueRouter)</li>
-<li>定义路由组件</li>
-<li>定义路由 routes 路由配置 path,component</li>
-<li>创建 router 实例，然后传 <code>routes</code> 配置</li>
-<li>挂载到根实例</li>
-<li>路由出口  路由匹配到的组件将渲染在这里</li>
-<li>页面导航 to 属性</li>
-
-</ol>
-<p>&nbsp;</p>
-<h4><a href='https://vuex.vuejs.org/zh/'>Vuex</a></h4>
-<blockquote><p>Vuex 是一个专为 Vue.js 应用程序开发的<strong>状态管理模式</strong>。它采用集中式存储管理应用的所有组件的状态，并以相应的规则保证状态以一种可预测的方式发生变化。</p>
-</blockquote>
-<p><img src='https://vuex.vuejs.org/vuex.png' alt='vuex' referrerPolicy='no-referrer' /></p>
-<h6>vuex核心概念：state、getter、mutation、action、module</h6>
-<p>&nbsp;</p>
-
-</body>
+	<head>
+		<meta charset="UTF-8" />
+		<title>vue-summary</title>
+		<script src="https://www.liuyuling.site/tools/js/jquery-1.11.3.js"></script>
+		<script src="https://www.liuyuling.site/tools/js/markdown.js"></script>
+		<link rel="stylesheet" href="https://www.liuyuling.site/tools/js/markdown.css">
+	</head>
+	<body>
+		<div id="content"></div>
+	</body>
+	<script>
+		$.get("./liuyuling.md", function(response, status, xhr) {
+			$("#content").html(marked(response));
+		});
+	</script>
 </html>
