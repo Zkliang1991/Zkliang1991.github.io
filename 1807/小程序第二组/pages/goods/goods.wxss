@@ -1,0 +1,40 @@
+/* pages/goods/goods.wxss */
+
+
+.goods{
+  width:100%;
+  height:100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.navbar {
+  width:100%;
+  display: flex;
+  height:94rpx;
+}
+
+.navbar nav{
+  flex:1;
+  text-align: center;
+  height:92rpx;
+  line-height: 92rpx;
+  color:#666;
+  border-bottom:2rpx solid #666;
+}
+
+.navbar nav.active{
+    color:#1296db;
+    border-bottom:2rpx solid #1296db;
+}
+
+.content{
+  flex:1;
+  width:100%;
+  background: #fff;
+}
+
+.my-swiper{
+  width:100%;
+  height:100%;
+}

@@ -1,0 +1,10 @@
+<!--components/demo/demo.wxml-->
+<view>
+    <text> demo-  wuhan1807 </text>
+    <view>  {{word}} -- {{count }} </view>
+    <view style="border:2px solid red">
+        <slot></slot>
+    </view>
+</view>
+
+

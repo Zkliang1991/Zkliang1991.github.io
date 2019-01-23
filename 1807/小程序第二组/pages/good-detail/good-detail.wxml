@@ -1,0 +1,59 @@
+<!--pages/good-detail/good-detail.wxml-->
+<view>
+     <view class="good-detail-page">
+          <view class="img">
+               <image src="{{good.img}}" ></image>
+          </view>
+          <view class="goods-name">
+               <view class="name">{{good.title}}</view>
+          </view>
+          <view class="price-date">
+               <view class="goods-price">
+                    <view class="current-price">￥{{good.price}}</view>
+                    <view class="previous-price">{{good.orgPrice}}</view>
+               </view>
+          </view>
+
+          <view class="product-desc ">
+               <view class="goods-desc  page-block">
+                    <view class="title">
+                         商品信息
+                         <text class="en-title">PRODUCT INFO</text>
+                    </view>
+                    <view class="detail table">
+                         <view class="column">编号：51087510</view>
+                         <view class="column">颜色：黑色</view>
+                         <view class="column">性别：女款</view>
+                         <view class="column">面料材质：混纺</view>
+                         <view class="column">裙长：短</view>
+                         <view class="column">腰型：正常</view>
+                         <view class="column">经典款型：A字</view>
+                    </view>  
+               </view>
+          </view>
+
+          <view class="price-description page-block">
+               <view class="title">
+                    特别说明
+                    <text class="en-title">SPECIAL DESCRIPTION</text>
+               </view>
+               <view class="price-desc-detail">
+                    <view class="price-item-name">广告禁用词</view>
+                    <view class="price-item-content">根据新广告法规定，所有页面不得出现广告禁用词。我们在此郑重表态：支持新广告法，也为了不影响消费者正常购物，我们已经在排查修改；本页面所有广告禁用词在此声明失效，不作为赔付理由，请为真正的消费者让路。维权是双向的，希望各位消费者理解，在此感谢！</view>
+
+                    <view class="price-item-name">页面价格</view>
+                    <view class="price-item-content">划线价格指商品的吊牌价、品牌指导价或该商品的曾展示过的销售价等，并非原价，仅供参考。无划线价格指商品的实时销售价，不因表述的差异改变性质。具体成交价格根据商品参加活动，或会员使用优惠券/码、有货币等发生变化，最终以订单结算页价格为准。</view>
+
+                    <view class="price-item-name">价格异常</view>
+                    <view class="price-item-content">可能因为存在系统缓存、页面延迟等异常情况，导致价格、促销或其他类型活动显示异常，商品具体结算信息以订单结算页面显示为准。如您发现此类情况，请立即联系我们客服调整。</view>
+
+                    <view class="price-summary">此说明仅当出现价格比较时有效，若商家单独对价格进行说明的，以商家的表述为准。</view>
+               </view>
+          </view>
+          <view class="cart-bar"> 
+               <button  class="goto-car" type="primary" bindtap="gotocar" >立即购买</button> 
+               <button  class="addto-cart" type="warn" bindtap="addCar">加入购物车</button>                
+          </view>
+     </view>
+
+</view>

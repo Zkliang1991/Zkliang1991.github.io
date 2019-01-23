@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "商品列表",
+    "usingComponents": {
+      "good-cpt": "../../components/good-cpt/good-cpt"
+    }
+}

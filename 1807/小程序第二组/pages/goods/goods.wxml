@@ -1,0 +1,26 @@
+<!--pages/goods/goods.wxml-->
+<view class="goods" wx:if="{{show}}">
+    <view class="navbar">
+        <nav 
+        bindtap="changeActiveId"
+        data-index="{{index}}"
+        class="{{activeId==index?'active':''}}" 
+        wx:for="{{navItems}}" 
+        wx:key="index" 
+        data-value="{{item.value}}">
+            {{item.text}}
+        </nav>
+    </view>
+
+    <view class="content">
+        <swiper 
+          class="my-swiper"
+          current="{{current}}"
+          bindchange="swiperChange"
+        >
+            <swiper-item wx:for="{{navItems}}" wx:key="index">
+                <good-cpt keyword="{{item.value}}" types="{{item}}" goods="{{goods}}" ></good-cpt>  
+            </swiper-item>
+        </swiper>
+    </view> 
+</view>

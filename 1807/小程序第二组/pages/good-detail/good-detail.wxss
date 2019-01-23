@@ -1,0 +1,140 @@
+/* pages/good-detail/good-detail.wxss */
+
+
+.page-block {
+  background-color: #fff;
+  border-bottom: 2rpx solid #e0e0e0;
+  border-top: 2rpx solid #e0e0e0;
+  box-sizing: border-box;
+  margin-bottom: 20rpx;
+  padding: 50rpx;
+  width: 100%;
+}
+.page-block .title {
+  border-bottom: 2rpx solid #e0e0e0;
+  color: #444;
+  font-size: 36rpx;
+  line-height: 60rpx;
+}
+.page-block .title text {
+  color: #a0a0a0;
+  font-size: 30rpx;
+  margin-left:200rpx;
+}
+   
+.good-detail-page>.img{
+    background-color: #fff;
+    margin: 40rpx 20%;
+    overflow: hidden;
+    width: 60%;
+    
+}
+.good-detail-page>.img image{
+  width:100%;
+  height:600rpx;
+}
+ 
+.goods-name {
+    background-color: #515150;
+    box-sizing: border-box;
+    color: #fff;
+    padding: 36rpx 40rpx;
+    width: 99%;
+    font-size: 34rpx !important;
+}
+.price-date{
+  border-bottom: 2rpx solid #e0e0e0;
+  color: #b0b0b0;
+  height: 100rpx;
+  padding-left: 30rpx;
+  padding-right: 30rpx;
+  width: 94%;
+  line-height: 100rpx;
+}
+.price-date  .goods-price {
+  float: left;
+  font-size: 50rpx;
+}
+.price-date  .goods-price  view {
+  display: inline-block;
+  line-height: 50rpx;
+}
+.current-price {
+    color: #d0021b;
+    margin-right: 40rpx;
+}
+.previous-price {
+    text-decoration: line-through;
+}
+   
+
+.product-desc  .goods-desc {
+  padding-bottom: 30rpx;
+  padding-top: 30rpx;
+}
+.goods-desc  .detail.table {
+  overflow: hidden;
+  width: 100%;
+}
+.goods-desc .column {
+  background-color: #eee;
+  border: 2rpx solid #fff;
+  box-sizing: border-box;
+  float: left;
+  font-size: 30rpx;
+  overflow: hidden;
+  padding: 20rpx 3%;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  width: 50%;
+}
+
+.price-description{
+  margin-bottom:100rpx;
+}
+.price-description .en-title{
+  font-size:20rpx;
+  
+}
+.price-description  .price-desc-detail {
+  color: #b0b0b0;
+  font-size: 30rpx;
+  margin-top: 20rpx;
+  padding: 20rpx 0;
+}
+.price-description .price-item-name {
+  color: #444;
+  font-size: 36rpx;
+  line-height: 60rpx;
+  padding-bottom: 0;
+}
+.price-description .price-item-content {
+    font-weight: 150;
+    line-height: 60rpx;
+}
+   
+.cart-bar {
+    bottom: 0;  
+    height: 100rpx;
+    position: fixed;
+    width:100%;
+    display: flex;
+    background-color: #fff;
+}
+.cart-ba  button{
+  border: none;
+  color: #fff;
+  float: left;
+  font-size: 40rpx;
+  height: 30rpx;
+  width:50%;
+}
+.cart-ba .goto-car{
+  background-color: #444 !important;
+ 
+}
+.cart-ba .addto-cart {
+  background-color: #d0021b;
+ 
+}
+  

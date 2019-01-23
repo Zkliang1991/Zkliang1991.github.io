@@ -1,0 +1,36 @@
+
+<template name="sign">
+  <view>
+     <modal
+      title="登录"
+      confirm-text="确定登录"
+      cancel-text="取消登录"
+      bindconfirm="confirm"
+      bindcancel="cancel"
+      hidden="{{modalHidden}}"
+     >
+        <view>
+          <label style="display:block;margin:5% 10%">
+              <input
+                placeholder='请输入用户名'
+                type="text"
+                style="border:1px solid #000;border-radius: 10rpx;"
+                value="{{username}}"
+                bindinput="getUsername"
+                required
+               />
+          </label>  
+          <label style="display:block;margin:10%">
+              <input
+                placeholder='请输入密码'
+                type="password"
+                style="border:1px solid #000;border-radius: 10rpx;"
+                value="{{password}}"
+                bindinput="getPassword"
+                required
+               />
+          </label>  
+        </view>
+     </modal>
+  </view>
+</template> 

@@ -1,0 +1,134 @@
+<!--pages/my/my.wxml-->
+<view class="box">
+  <view class="new-home-c ">
+      <view class="header" >
+          <view class="login-btn">
+             {{modalData.username}}
+          </view>
+      </view>
+      <view class="list s-list">
+          <view class="list-item">
+              <view class="body">
+                  <view class="main eps">默认购物频道</view>
+                  <view >
+                      <view class="value">
+                          连衣裙 
+                      </view>
+                  </view>
+                  <view class="arr ">
+                    <image  src="../../images/right.png" />
+                  </view>
+              </view>
+          </view>
+      </view>
+
+      <view class="list s-list">
+          <view class="list-item">
+              <view class="body">
+                  <view class="main eps">我的订单</view>
+                  <view>
+                      <view class="value">全部订单</view>
+                  </view>
+                  <view class="arr ">
+                    <image  src="../../images/right.png" />
+                  </view>
+              </view>
+          </view>
+      </view>
+
+      <view class="service">
+          <view>
+              <view class="service-item">
+                  <view class=" pic dfk">
+                    <image src="../../images/daifukuan.png"/>
+                  </view>
+                  <view class="name">待付款</view>
+              </view>
+          </view>
+          <view>
+              <view class="service-item">
+                  <view class=" pic dfk">
+                    <image src="../../images/daifahuo.png"/>
+                  </view>
+                  <view class="name">待发货</view>
+              </view>
+          </view>
+          <view>
+              <view class="service-item">
+                  <view class=" pic dfk">
+                    <image src="../../images/daishouhuo.png"/>
+                  </view>
+                  <view class="name">待收货</view>
+              </view>
+          </view>
+          <view class="service-item">
+              <navigator>
+                  <view class="num">0</view>
+                  <view class="name">商品收藏</view>
+              </navigator>
+          </view>
+          <view class="service-item">
+              <navigator>
+                  <view class="num">0</view>
+                  <view class="name">品牌收藏</view>
+              </navigator>
+          </view>
+          <view class="service-item">
+              <navigator>
+                  <view class="num">0</view>
+                  <view class="name">浏览记录</view>
+              </navigator>
+          </view>
+      </view>
+
+      <view class="list">
+          <navigator class="list-item" >
+              <view class="pic yhq"></view>
+              <view class="body">
+                  <view class="main eps ">优惠券</view>
+                  <view class="value"></view>
+                  <view class="arr ">
+                    <image  src="../../images/right.png" />
+                  </view>
+              </view>
+          </navigator>
+          <navigator class="list-item" >
+              <view class="pic mgb"></view>
+              <view class="body">
+                  <view class="main eps ">蘑菇币</view>
+                  <view class="value"></view>
+                  <view class="arr ">
+                    <image  src="../../images/right.png" />
+                  </view>
+              </view>
+          </navigator>
+      </view>
+
+      <navigator class="list">
+          <navigator class="list-item" >
+              <view class="pic xx "></view>
+              <view class="body">
+                  <view class="main eps">消息</view>
+                  <view class="value"></view>
+                  <view class="arr ">
+                    <image  src="../../images/right.png" />
+                  </view>
+              </view>
+          </navigator>
+          <navigator class="list-item" >
+              <view class="pic fw"></view>
+              <view class="body">
+                  <view class="main eps">服务与反馈</view>
+                  <view class="value"></view>
+                  <view class="arr ">
+                    <image  src="../../images/right.png" />
+                  </view>
+              </view>
+          </navigator>
+      </navigator>
+  </view>
+
+  <template is="users" data="{{...usersInfo}}" />
+    <import src="../../tpls/sign" />
+  <template is="sign" data="{{  ...modalData  }}" />
+</view>

@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "我的",
+  "usingComponents":{
+    "my-demo":"../../components/demo/demo"
+  }
+}

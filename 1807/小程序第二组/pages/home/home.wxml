@@ -1,0 +1,84 @@
+<!--pages/home/home.wxml-->
+<view>
+    <swiper 
+    indicator-dots="{{indicatorDots}}" indicator-color="rgba(0,0,0,.3)" 
+    autoplay="{{autoplay}}" 
+    interval="{{interval}}" 
+    duration="{{duration}}"
+    class="swiper"
+   >
+        <swiper-item wx:for="{{imgUrls}}" wx:key="index" class="swiper-item">
+            <image class="img" src="{{item}}" />
+        </swiper-item>
+    </swiper>
+
+    <view class="icons-wrapper" >
+        <view class="icons-list clearfix">
+            <view class="icons-item item-4">
+            <view href="" class="imagebar">
+                <image src="https://img10.static.yhbimg.com/yhb-img01/2017/02/03/09/01b6734d1561762771e42274ef8ad9f1bd.png?imageView2/2/w/98/h/98/q/60" alt=""/>
+            </view>
+            <view href="" class="linkbar">新品到着</view>
+            </view>
+            <view class="icons-item item-4">
+            <view href="" class="imagebar">
+                <image src="https://img10.static.yhbimg.com/yhb-img01/2017/02/03/09/01335fdcb07216884c0b2f0d0ebfe00e7f.png?imageView2/2/w/98/h/98/q/60" alt=""/>
+            </view>
+            <view href="" class="linkbar">人气搭配</view>
+            </view>
+            <view class="icons-item item-4">
+            <view href="" class="imagebar">
+                <image src="https://img11.static.yhbimg.com/yhb-img01/2017/03/01/12/0107e05d8f249d707382e5777914e61a17.png?imageView2/2/w/98/h/98/q/60" alt=""/>
+            </view>
+            <view href="" class="linkbar">折扣专区</view>
+            </view>
+            <view class="icons-item item-4">
+            <view href="" class="imagebar">
+                <image src="https://img11.static.yhbimg.com/yhb-img01/2017/02/03/09/01a6e3ccf4c41dc5826f66d0ff288288d1.png?imageView2/2/w/98/h/98/q/60" alt=""/>
+            </view>
+            <view href="" class="linkbar">全部分类</view>
+            </view>
+        </view>  
+    </view>
+
+
+    <view class="videobox">
+        <video
+        id="myVideo"
+        src="{{videoSrc}}"
+        controls
+        bindplay="videoPlay"
+        bindtimeupdate = "videoplaying"
+      ></video>
+    </view>
+
+    <view class="maybe-like">
+        <view class="title">
+            <view>猜你喜欢</view>
+        </view>
+        <view id="goods-list" class="goods-list clearfix" wx:for="{{maybelike}}" wx:key="{{index}}">
+            <class class="good-info ">
+                <navigator class="good"
+                 url="{{'../good-detail/good-detail?goodId='+ item.iid }}"
+                >
+                <class class="good-detail-img">
+                    <view class="good-thumb">
+                      <image class="lazy" data-original="" alt="" src="{{item.img}}" />
+                    </view>       
+                </class>
+                <class class="good-detail-text">
+                  <class class="name">
+                      <view >{{item.title}}</view>
+                  </class>
+                  <class class="price">
+                    <span class="sale-price ">￥{{item.price}}</span>
+                    <span class="market-price">{{item.orgPrice}}</span>
+                  </class>
+                  <view class="similar-btn ">...</view>
+                </class>
+                </navigator>
+            </class>
+        </view>
+    </view>
+</view>
+  

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>vue 总结</title>
+    <style>
+        h1{
+            color:brown;
+        }
+    </style>
+</head>
+<body>
+    <h1>vue 总结  张祥</h1>
+    <h1>react 和vue 对比</h1>
+    <h1>vue (vm实例)  通过 v-model 指令把 dom (视图)  和 数据模型 (model) 绑定到一起 
+         当你修改 view 视图  触发DOM listeners  这个函数就会马上去修改 对应的 model  的值
+        当你修改 model(数据模型 ) , 执行 data-bindings 绑定的事件就会去执行 修改 对应视图的 value  
+    </h1>
+    <h1>计算属性  computed   处理复杂的逻辑  依赖 data 某个数值 
+        计算属性  有缓存 的  基于 依赖进行缓存  如果计算属性 依赖的值没有发生改变 , 计算属性不会重新计算 求值
+        watch 侦听属性  监听data 某个数值 返回newVal 从而去改变对应的值 
+        get 取值   
+        set 设置 监听作用   只有计算属性的值 自己发生改变   才能触发set 监听方法
+    </h1>
+</body>
+</html>

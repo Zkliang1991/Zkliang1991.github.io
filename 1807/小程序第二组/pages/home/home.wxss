@@ -1,0 +1,162 @@
+/* pages/home/home.wxss */
+.img,.swiper-item,.swiper{
+    width:100%;
+    height:350rpx;
+}
+
+.section{
+    width:200rpx;
+    height:200rpx;
+    background: rebeccapurple;
+}
+
+.videobox {
+    width:100%;
+}
+.videobox video{
+    width:100%;
+}
+
+.icons-wrapper {
+    background: #fff;
+    background-size: 100% 100%;
+    border-bottom: 2rpx solid #e0e0e0;
+    box-sizing: border-box;
+    padding: 30rpx 0 4rpx;
+}
+.icons-wrapper .icons-list{
+    width:100%;
+    overflow: hidden;
+}
+.icons-wrapper  .icons-item.item-4 {
+    width: 25%;
+}
+.icons-wrapper   .imagebar {
+    box-sizing: border-box;
+    display: block;
+    height: 80rpx;
+    line-height: 80rpx;
+    margin: 0 auto;
+    overflow: hidden;
+    text-align: center;
+    width: 80rpx;
+}
+.icons-wrapper    image {
+    border: none;
+    height: 100%;
+    width: 100%;
+}
+            
+.icons-wrapper  .imagebar {
+color: #000;
+outline: none;
+text-decoration: none;
+
+}
+.icons-wrapper .linkbar{
+    display: block;
+    font-size: 24rpx;
+    line-height: 44rpx;
+    transform: scale(.9);
+}
+        
+        
+.icons-wrapper  .icons-item {
+float: left;
+height: 140rpx;
+margin-bottom: 40rpx;
+text-align: center;
+}
+
+.maybe-like {
+    background: #fff;
+    border-top: 2rpx solid #ccc;
+    margin-top: 60rpx;
+    margin-bottom:20rpx;
+    position: relative;
+}
+.maybe-like  .title {
+    color: rgb(255, 160, 160);
+    font-size: 40rpx;
+    height: 150rpx;
+    line-height: 150rpx;
+    text-align: center;
+}
+   
+    
+.goods-list   .good-info {
+    float: left;
+    height: 600rpx;
+    margin: 20rpx 1% 20rpx;
+    width: 47%;
+} 
+.goods-list    .tag-container {
+    height: 300rpx;
+    overflow: hidden;
+    width: 100%;
+}
+.goods-list    .good-detail-img {
+    width:100%;
+    position: relative;
+}
+ .goods-list   .good-thumb {
+    color: #000;
+    outline: none;
+    width:100%;
+    text-decoration: none;
+}
+.goods-list   .lazy{
+    width:100%;
+}
+            
+.goods-list .good-detail-text {
+    position: relative;
+    width:100%;
+}
+.goods-list .name{
+    height:400rpx;
+}
+.goods-list .name>view, .price {
+    -webkit-transform: scale(.9);
+    font-size: 24rpx;
+    transform: scale(.9);
+}
+.goods-list  .name>view {
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+    color: #444;
+    display: -webkit-box;
+    height: 80rpx;
+    line-height: 40rpx;
+    margin: 10rpx 0  10rpx;
+    overflow: hidden;
+}
+.goods-list  .price {
+    margin-left:1%;
+    line-height: 50rpx;
+    white-space: nowrap;
+}
+.goods-list  .sale-price {
+    color: #d62927;
+    font-size: 24rpx;
+    transform: scale(.9);
+}
+.goods-list .market-price {
+    color: #b0b0b0;
+    font-size: 24rpx;
+    margin: 0 0 0 50rpx;
+    text-decoration: line-through;
+}
+    
+ .goods-list  .similar-btn {
+    bottom: -50rpx;
+    color: #b0b0b0;
+    font-weight: 700;
+    height: 100rpx;
+    line-height: 100rpx;
+    position: absolute;
+    right: 0;
+    text-align: center;
+    width:100rpx;
+}
+ 

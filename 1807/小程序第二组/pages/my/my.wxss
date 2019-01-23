@@ -1,0 +1,156 @@
+/* pages/my/my.wxss */
+.head{
+  width:100%;
+  padding:20rpx 0;
+  background-size:cover;
+  background-image: "https://s3.mogucdn.com/mlcdn/c45406/181103_4ae01jk06cl6j3b8gdi1elad359gg_640x960.jpg_600x999.v1c96.webp" 100% 100%;
+  position: relative;
+}
+
+.gotoLogin{
+  background-color: transparent;
+  width:200rpx;
+  height:80rpx;
+  margin:80rpx auto;
+  display: block;
+  line-height: 80rpx;
+  border:4rpx solid #000;
+  text-align: center;
+}
+
+.new-home-c {
+  width: 100%;
+  padding-bottom: 20rpx;
+}
+.new-home-c navigator {
+  color: #000;
+  outline: none;
+  text-decoration: none;
+}
+.new-home-c .header {
+  background-size: cover;
+  height: 150rpx;
+  padding: 80rpx 20rpx 80rpx;
+  position: relative;
+}
+.new-home-c  .login-btn {
+  /* background-color: transparent; */
+  border: 2rpx solid #fff;
+  /* color: #fff; */
+  display: block;
+  font-size: 40rpx;
+  height: 100rpx;
+  line-height: 100rpx;
+  margin: 20rpx auto;
+  text-align: center;
+  width: 400rpx;
+  border:2rpx solid pink;
+  
+}
+
+ .new-home-c  .list {
+    clear: both;
+    margin-bottom: 30rpx;
+    /* border-bottom:20rpx solid #F0FFF0; */
+    width:100%;
+ }
+ .new-home-c   .list-item {
+  
+    display: block;
+    height: 100rpx;
+    line-height: 100rpx;
+    margin-left:60rpx;
+    width:95%;
+ }
+ .new-home-c   .list-item  view {
+  height: 100rpx;
+  color: #444;
+  float: left;
+  font-size:40rpx;
+}
+          
+             
+.list-item  .body .main {
+  float: left;
+  font-size: 40rpx;
+  width: 300rpx;
+}
+.list-item .body  navigator{
+  float:right;
+  margin-right:110rpx;
+  text-align: right;
+  width: 300rpx;
+  height:100rpx;
+  font-size: 40rpx;
+}
+  .list-item .body .value {
+      text-align: right;
+      width: 300rpx;
+  }
+  .list-item .body  .arr{
+      width: 100rpx;
+      height:100rpx;
+      line-height: 100rpx;
+      
+      font-size: 40rpx;
+      /* background:url("../../../assets/images/qianjin.png") no-repeat center right; */
+      background-size: 50%;
+  }
+  .list-item .body  .arr image{
+    margin:15% 15%;
+    width:70%;
+    height:70%;
+  }   
+  .service {
+      background-color: #fff;
+      float: left;
+      margin-bottom: 50rpx;
+      border-bottom:20rpx solid  #F0FFF0;
+      margin-top: -30rpx;
+      width: 100%;
+  }
+  .service  .service-item {
+    border-top: 2rpx solid #e0e0e0;
+    color: #444;
+    float: left;
+    height: 200rpx;
+    padding: 20rpx 1.5%;
+    position: relative;
+    text-align: center;
+    width: 30%;
+  }
+  .service .pic {
+    font-size: 30rpx;
+    height: 120rpx;
+    line-height: 120rpx;
+    padding-top: 30rpx;
+}
+.service .pic image{
+  margin-left:10%;
+  width:40%;
+  height:80%;
+
+}
+          .service  .name {
+              color: #444;
+              font-size: 30rpx;
+              height: 80rpx;
+              line-height: 80rpx;
+          }
+          .service  .num {
+              font-size: 30rpx;
+              height: 80rpx;
+              line-height: 80rpx;
+          }
+          .service .dfk{
+              /* background:url("../../../assets/images/icon-test.png") no-repeat center ; */
+              background-size: 25%;
+          }
+          .service .dfh{
+              /* background:url("../../../assets/images/daifahuo.png") no-repeat center ; */
+              background-size: 15%;
+          }
+          .service  .dsh{
+              /* background:url("../../../assets/images/daishouhuo.png") no-repeat center ; */
+              background-size: 25%;
+          }
