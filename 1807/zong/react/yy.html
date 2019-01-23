@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <h2> react 项目总结</h2>
+    <p>1：react 采用组件化开发，引入了虚拟DOM，我们对数据和状态的改变，都是对虚拟DOM进行操作，通过DIFF算法，进而更新视图</p>
+    <p>2：项目中使用redux ，redux的思想是单向数据流。</p>
+    <p>1. 用户访问 view 触发click事件 ，发出action dispatch
+2. store 接收action 自动的去通知reducers 
+3. reducers 接收 action 和 oldState ,进行相关计算 返回新的state
+4. state 变化会触发 store 的监听函数，store 就会去改变 组件 重新渲染组件     store已经实现监听 store.subscribe 监听 state 变化   </p>
+    
+</body>
+</html>
