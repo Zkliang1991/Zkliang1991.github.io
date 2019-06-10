@@ -1,8 +1,8 @@
 <template>
     <div>
         <h2>demo--demo--demo</h2>
-        <p>他大舅他二舅</p>
-        <p>都是他舅</P>
+        <p>hahahahaha</p>
+        <p>xixixixixxi</P>
         <h3>{{msg}}</h3>
         <h2 @click="change">{{count}}</h2>
     </div>
