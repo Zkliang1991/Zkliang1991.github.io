@@ -1,0 +1,697 @@
+{
+    "code": 0,
+    "time": 1559549692,
+    "data": {
+        "items": [
+            {
+                "type": 0,
+                "goods": {
+                    "goods_id": "468083",
+                    "goods_name": "度然安卓苹果i9s双耳5.0入耳式tws无线蓝牙耳机",
+                    "short_name": "",
+                    "thumb_url": "http://file04.mengtuiapp.com/1/201905/7d43e45b14f5b4a5-800x800.jpg?x-oss-process=style/middle_p",
+                    "ethumb": {
+                        "img": "http://file04.mengtuiapp.com/1/201905/7d43e45b14f5b4a5-800x800.jpg?x-oss-process=style/middle_p",
+                        "ratio": "1"
+                    },
+                    "market_price": 10800,
+                    "min_group_price": 3990,
+                    "min_normal_price": 3990,
+                    "min_price": 3990,
+                    "sales": 571139,
+                    "mall_id": 100030,
+                    "money_types": [
+                        0
+                    ],
+                    "footnote": "智能稳定",
+                    "avatars": [
+                        "http://file01.mengtuiapp.com/1/wa/lnds-zihdNg=/1558752229.jpg?x-oss-process=style/avatar_p",
+                        "http://file09.mengtuiapp.com/1/wa/lnZo-zymdNs=/1558956481.jpg?x-oss-process=style/avatar_p",
+                        "http://file04.mengtuiapp.com/1/wa/lnZp_j2tctY=/1558941760.jpg?x-oss-process=style/avatar_p"
+                    ],
+                    "review_cnt": 208833,
+                    "reward_mark": "",
+                    "show_cart": true
+                }
+            },
+            {
+                "type": 0,
+                "goods": {
+                    "goods_id": "25370",
+                    "goods_name": "苹果Apple iPhone XS (A2100) 移动联通电信4G手机",
+                    "short_name": "",
+                    "thumb_url": "http://file07.mengtuiapp.com/1/201809/2ddeea4fbd0ba296-800x800.jpg?x-oss-process=style/middle_p",
+                    "ethumb": {
+                        "img": "http://file07.mengtuiapp.com/1/201809/2ddeea4fbd0ba296-800x800.jpg?x-oss-process=style/middle_p",
+                        "ratio": "1"
+                    },
+                    "market_price": 869900,
+                    "min_group_price": 839900,
+                    "min_normal_price": 839900,
+                    "min_price": 839900,
+                    "sales": 675,
+                    "mall_id": 100243,
+                    "money_types": [
+                        0
+                    ],
+                    "footnote": "2018年iPhone新品上市",
+                    "avatars": [
+                        "http://file03.mengtuiapp.com/1/wa/kX9q_zyk/1533799840.jpg?x-oss-process=style/avatar_p",
+                        "http://file09.mengtuiapp.com/1/wa/knJg8zes/1537960601.jpg?x-oss-process=style/avatar_p",
+                        "http://file01.mengtuiapp.com/1/wa/knJh_D-s/1537950809.jpg?x-oss-process=style/avatar_p"
+                    ],
+                    "review_cnt": 157,
+                    "reward_mark": "",
+                    "show_cart": true,
+                    "recommend": {
+                        "avatar": "http://file05.mengtuiapp.com/1/201808/96bc09a255cdc50b-200x200.jpg?x-oss-process=style/share_logo_p",
+                        "content": "郑秀晶男朋友推荐：更大的屏幕！更大的容量！全新的A12仿生芯片以及双1200W的摄像头，拍出的视频简直都是电影级别的了"
+                    }
+                }
+            },
+            {
+                "type": 0,
+                "goods": {
+                    "goods_id": "749381",
+                    "goods_name": "苹果 AppleXS 移动联通电信4G手机 原封 公开版 全国联保一年",
+                    "short_name": "",
+                    "thumb_url": "http://file03.mengtuiapp.com/1/201906/720c9d7479776f38-640x640.jpg?x-oss-process=style/middle_p",
+                    "ethumb": {
+                        "img": "http://file03.mengtuiapp.com/1/201906/720c9d7479776f38-640x640.jpg?x-oss-process=style/middle_p",
+                        "ratio": "1"
+                    },
+                    "market_price": 999900,
+                    "min_group_price": 711900,
+                    "min_normal_price": 711900,
+                    "min_price": 711900,
+                    "sales": 250,
+                    "mall_id": 101853,
+                    "money_types": [
+                        0
+                    ],
+                    "footnote": "大屏幕 面容ID 双镜头",
+                    "marks": [
+                        {
+                            "text": "新品"
+                        }
+                    ],
+                    "reward_mark": "",
+                    "show_cart": true
+                }
+            },
+            {
+                "type": 0,
+                "goods": {
+                    "goods_id": "749382",
+                    "goods_name": "苹果 AppleX  移动联通电信4G手机 原封 公开版 全国联保一年",
+                    "short_name": "",
+                    "thumb_url": "http://file02.mengtuiapp.com/1/201906/c895c93937a28fc6-640x640.jpg?x-oss-process=style/middle_p",
+                    "ethumb": {
+                        "img": "http://file02.mengtuiapp.com/1/201906/c895c93937a28fc6-640x640.jpg?x-oss-process=style/middle_p",
+                        "ratio": "1"
+                    },
+                    "market_price": 799900,
+                    "min_group_price": 609900,
+                    "min_normal_price": 609900,
+                    "min_price": 609900,
+                    "sales": 250,
+                    "mall_id": 101853,
+                    "money_types": [
+                        0
+                    ],
+                    "footnote": "高清屏 坚固耐用 面部识别",
+                    "marks": [
+                        {
+                            "text": "新品"
+                        }
+                    ],
+                    "reward_mark": "",
+                    "show_cart": true
+                }
+            },
+            {
+                "type": 0,
+                "goods": {
+                    "goods_id": "12726",
+                    "goods_name": "【Apple】iphone X全网通智能手机",
+                    "short_name": "Apple iPhoneX 全网通智能手",
+                    "thumb_url": "http://file07.mengtuiapp.com/1/201805/0c31baac6755781a.jpg?x-oss-process=style/middle_p",
+                    "ethumb": {
+                        "img": "http://file07.mengtuiapp.com/1/201805/0c31baac6755781a.jpg?x-oss-process=style/middle_p",
+                        "ratio": "1"
+                    },
+                    "market_price": 899900,
+                    "min_group_price": 614900,
+                    "min_normal_price": 614900,
+                    "min_price": 614900,
+                    "sales": 16358,
+                    "mall_id": 100243,
+                    "money_types": [
+                        0
+                    ],
+                    "footnote": "赠送一年碎屏险",
+                    "avatars": [
+                        "http://file10.mengtuiapp.com/1/wa/lHZh_js=/1521195217?x-oss-process=style/avatar_p",
+                        "http://file05.mengtuiapp.com/1/wa/kX9u-Tqn/1534909359.jpg?x-oss-process=style/avatar_p",
+                        "http://file03.mengtuiapp.com/1/wa/lHJr-jg=/1521730459?x-oss-process=style/avatar_p"
+                    ],
+                    "review_cnt": 52,
+                    "reward_mark": "收货送5000推币",
+                    "show_cart": true,
+                    "recommend": {
+                        "avatar": "http://file09.mengtuiapp.com/1/201807/ef01cf23dc23fb83.jpg?x-oss-process=style/share_logo_p",
+                        "content": "鹿仙人推荐：📱 从大小来说 比之前用的6P小了很多 对于用惯了plus的人来说 手机和屏幕都是小一些的！屏幕变的"
+                    }
+                }
+            },
+            {
+                "type": 0,
+                "goods": {
+                    "goods_id": "75988",
+                    "goods_name": "鑫妙康 全自动加热按摩足浴盆",
+                    "short_name": "",
+                    "thumb_url": "http://file04.mengtuiapp.com/1/201901/0cd868fb61e0034a-800x800.jpg?x-oss-process=style/middle_p",
+                    "ethumb": {
+                        "img": "http://file04.mengtuiapp.com/1/201901/0cd868fb61e0034a-800x800.jpg?x-oss-process=style/middle_p",
+                        "ratio": "1"
+                    },
+                    "market_price": 19900,
+                    "min_group_price": 5900,
+                    "min_normal_price": 5900,
+                    "min_price": 5900,
+                    "sales": 105961,
+                    "mall_id": 101706,
+                    "money_types": [
+                        0
+                    ],
+                    "footnote": "红光杀菌 水电分离 智能恒温",
+                    "avatars": [
+                        "http://file02.mengtuiapp.com/1/wa/kX5t_D6ncg==/1547795011.jpg?x-oss-process=style/avatar_p",
+                        "http://file04.mengtuiapp.com/1/wa/kXJg8jqhcw==/1547536543.jpg?x-oss-process=style/avatar_p",
+                        "http://file07.mengtuiapp.com/1/wa/kX5q-D2tdg==/1547784537.jpg?x-oss-process=style/avatar_p"
+                    ],
+                    "review_cnt": 76753,
+                    "reward_mark": "",
+                    "show_cart": true
+                }
+            },
+            {
+                "type": 0,
+                "goods": {
+                    "goods_id": "189521",
+                    "goods_name": "美的（Midea）吸尘器SC861A家用手持立式吸尘器二合一强劲吸力",
+                    "short_name": "",
+                    "thumb_url": "http://file08.mengtuiapp.com/1/201904/6de7d959cd788e97-800x800.jpg?x-oss-process=style/middle_p",
+                    "ethumb": {
+                        "img": "http://file08.mengtuiapp.com/1/201904/6de7d959cd788e97-800x800.jpg?x-oss-process=style/middle_p",
+                        "ratio": "1"
+                    },
+                    "market_price": 16680,
+                    "min_group_price": 13900,
+                    "min_normal_price": 13900,
+                    "min_price": 13900,
+                    "sales": 104125,
+                    "mall_id": 104599,
+                    "money_types": [
+                        0
+                    ],
+                    "footnote": "",
+                    "avatars": [
+                        "http://file03.mengtuiapp.com/1/wa/l3Nh8zahc9Y=/1557233750.jpg?x-oss-process=style/avatar_p",
+                        "http://file03.mengtuiapp.com/1/wa/lH9s_T2hd9Y=/1555134550.jpg?x-oss-process=style/avatar_p",
+                        "http://file09.mengtuiapp.com/1/wa/l3No8zyid9Y=/1557032704.jpg?x-oss-process=style/avatar_p"
+                    ],
+                    "review_cnt": 5876,
+                    "reward_mark": "收货送300推币",
+                    "show_cart": true
+                }
+            },
+            {
+                "type": 0,
+                "goods": {
+                    "goods_id": "277426",
+                    "goods_name": "Nerve More I7S自带充电仓双耳迷你无线蓝牙耳机",
+                    "short_name": "",
+                    "thumb_url": "http://file08.mengtuiapp.com/1/201904/26c435878d0c65c8-800x800.jpg?x-oss-process=style/middle_p",
+                    "ethumb": {
+                        "img": "http://file08.mengtuiapp.com/1/201904/26c435878d0c65c8-800x800.jpg?x-oss-process=style/middle_p",
+                        "ratio": "1"
+                    },
+                    "market_price": 9800,
+                    "min_group_price": 3990,
+                    "min_normal_price": 3990,
+                    "min_price": 3990,
+                    "sales": 75457,
+                    "mall_id": 100591,
+                    "money_types": [
+                        0
+                    ],
+                    "footnote": "自带充电仓双耳迷你",
+                    "avatars": [
+                        "http://file10.mengtuiapp.com/1/wa/lndt-T6tets=/1558696136.jpg?x-oss-process=style/avatar_p",
+                        "http://file09.mengtuiapp.com/1/wa/lnZu-DahdN0=/1559196576.jpg?x-oss-process=style/avatar_p",
+                        "http://file03.mengtuiapp.com/1/wa/lnZg_zesddo=/1559247083.jpg?x-oss-process=style/avatar_p"
+                    ],
+                    "review_cnt": 22542,
+                    "reward_mark": "",
+                    "show_cart": true
+                }
+            },
+            {
+                "type": 0,
+                "goods": {
+                    "goods_id": "108512",
+                    "goods_name": "飞科全身水洗智能充电式男士剃须刀",
+                    "short_name": "",
+                    "thumb_url": "http://file09.mengtuiapp.com/1/201902/3c9c1252bfcd5bd5-800x800.jpg?x-oss-process=style/middle_p",
+                    "ethumb": {
+                        "img": "http://file09.mengtuiapp.com/1/201902/3c9c1252bfcd5bd5-800x800.jpg?x-oss-process=style/middle_p",
+                        "ratio": "1"
+                    },
+                    "market_price": 19900,
+                    "min_group_price": 6990,
+                    "min_normal_price": 6990,
+                    "min_price": 6990,
+                    "sales": 61323,
+                    "mall_id": 102195,
+                    "money_types": [
+                        0
+                    ],
+                    "footnote": "全身水洗 浮动贴面刀网 净彻剃",
+                    "avatars": [
+                        "http://file03.mengtuiapp.com/1/wa/lnds-j-nctc=/1558754023.jpg?x-oss-process=style/avatar_p",
+                        "http://file03.mengtuiapp.com/1/wa/lndh_zencNg=/1558857038.jpg?x-oss-process=style/avatar_p",
+                        "http://file04.mengtuiapp.com/1/wa/l3Zr-TasdN8=/1555918978.jpg?x-oss-process=style/avatar_p"
+                    ],
+                    "review_cnt": 43273,
+                    "reward_mark": "收货送50推币",
+                    "show_cart": true
+                }
+            },
+            {
+                "type": 0,
+                "goods": {
+                    "goods_id": "69786",
+                    "goods_name": "汉佳欧斯小型全自动多功能玻璃电热养生壶",
+                    "short_name": "",
+                    "thumb_url": "http://file10.mengtuiapp.com/1/201901/89c7716b8b0bf319-800x800.jpg?x-oss-process=style/middle_p",
+                    "ethumb": {
+                        "img": "http://file08.mengtuiapp.com/1/201901/e8b26c41af2774fc-800x800.jpg?x-oss-process=style/middle_p",
+                        "ratio": "1.00"
+                    },
+                    "market_price": 39900,
+                    "min_group_price": 6490,
+                    "min_normal_price": 6490,
+                    "min_price": 6490,
+                    "sales": 25606,
+                    "mall_id": 101625,
+                    "money_types": [
+                        0
+                    ],
+                    "footnote": "18大功能 24小时预约",
+                    "marks": [
+                        {
+                            "text": "品牌",
+                            "style": 102
+                        }
+                    ],
+                    "avatars": [
+                        "http://file03.mengtuiapp.com/1/wa/lnRo_TalcA==/1546375843.jpg?x-oss-process=style/avatar_p",
+                        "http://file05.mengtuiapp.com/1/wa/lnFt-T2jcA==/1546795342.jpg?x-oss-process=style/avatar_p",
+                        "http://file07.mengtuiapp.com/1/wa/lnFs-D6mcg==/1546823620.jpg?x-oss-process=style/avatar_p"
+                    ],
+                    "review_cnt": 16462,
+                    "reward_mark": "收货送50推币",
+                    "show_cart": true,
+                    "recommend": {
+                        "avatar": "http://file10.mengtuiapp.com/1/201808/edba4ca64ea40493-180x180.jpg?x-oss-process=style/share_logo_p",
+                        "content": "科学家种太阳推荐：有了这个养生壶，我这个懒人也开始进补了。十八大功能，容量1.8L，不管是煲汤、煮粥、火锅、酸奶、花茶"
+                    }
+                }
+            },
+            {
+                "type": 0,
+                "goods": {
+                    "goods_id": "66279",
+                    "goods_name": "凌科三合一充电胡须刀3188",
+                    "short_name": "",
+                    "thumb_url": "http://file02.mengtuiapp.com/1/201812/01f9e9ccf282b909-800x800.jpg?x-oss-process=style/middle_p",
+                    "ethumb": {
+                        "img": "http://file02.mengtuiapp.com/1/201812/01f9e9ccf282b909-800x800.jpg?x-oss-process=style/middle_p",
+                        "ratio": "1"
+                    },
+                    "market_price": 16900,
+                    "min_group_price": 2890,
+                    "min_normal_price": 2890,
+                    "min_price": 2890,
+                    "sales": 25280,
+                    "mall_id": 100972,
+                    "money_types": [
+                        0
+                    ],
+                    "footnote": "多功能剃须刀三合一充电",
+                    "avatars": [
+                        "http://file05.mengtuiapp.com/1/wa/l3Fp_zytdA==/1545185028.jpg?x-oss-process=style/avatar_p",
+                        "http://file06.mengtuiapp.com/1/wa/nXZu-z2mcg==/1550877758.jpg?x-oss-process=style/avatar_p",
+                        "http://file09.mengtuiapp.com/1/wa/lHZu8jalc98=/1552549561.jpg?x-oss-process=style/avatar_p"
+                    ],
+                    "review_cnt": 20937,
+                    "reward_mark": "收货送50推币",
+                    "show_cart": true,
+                    "recommend": {
+                        "avatar": "http://file10.mengtuiapp.com/1/201808/7a0b7f241be7a916-200x200.jpg?x-oss-process=style/share_logo_p",
+                        "content": "废宅少年二狗子推荐：快速无残留剃须，磨砂手感造型。\r\n自动研磨刀头，刀头可拆卸水洗。\r\n尺寸小，随身携带方便，适合出差使"
+                    }
+                }
+            },
+            {
+                "type": 0,
+                "goods": {
+                    "goods_id": "24554",
+                    "goods_name": "独到DT-712手机连接开车商务运动迷你蓝牙耳机",
+                    "short_name": "",
+                    "thumb_url": "http://file06.mengtuiapp.com/1/201811/ed24bb69b351807d-800x800.jpg?x-oss-process=style/middle_p",
+                    "ethumb": {
+                        "img": "http://file06.mengtuiapp.com/1/201811/ed24bb69b351807d-800x800.jpg?x-oss-process=style/middle_p",
+                        "ratio": "1"
+                    },
+                    "market_price": 7800,
+                    "min_group_price": 1990,
+                    "min_normal_price": 1990,
+                    "min_price": 1990,
+                    "sales": 52357,
+                    "mall_id": 100591,
+                    "money_types": [
+                        0
+                    ],
+                    "footnote": "迷你超小无线运动耳塞",
+                    "avatars": [
+                        "http://file07.mengtuiapp.com/1/wa/l39t_Tygdw==/1545705277.jpg?x-oss-process=style/avatar_p",
+                        "http://file02.mengtuiapp.com/1/wa/l39p_jqkcw==/1545610225.jpg?x-oss-process=style/avatar_p",
+                        "http://file02.mengtuiapp.com/1/wa/lHJr_T-heg==/1542370126.jpg?x-oss-process=style/avatar_p"
+                    ],
+                    "review_cnt": 42536,
+                    "reward_mark": "",
+                    "show_cart": true,
+                    "recommend": {
+                        "avatar": "http://file10.mengtuiapp.com/1/201808/edba4ca64ea40493-180x180.jpg?x-oss-process=style/share_logo_p",
+                        "content": "科学家种太阳推荐：耳机的挂钩很贴合耳朵的轮廓不会因为带久了耳朵觉得疼。蓝牙信号很稳定，不论是听歌还是打电话都没有顿卡的"
+                    }
+                }
+            },
+            {
+                "type": 0,
+                "goods": {
+                    "goods_id": "259775",
+                    "goods_name": "芯科美睿迷你喷雾冷风机 家用 办公台式USB加湿冷风扇",
+                    "short_name": "",
+                    "thumb_url": "http://file01.mengtuiapp.com/1/201904/36c3508df7aab87e-800x800.jpg?x-oss-process=style/middle_p",
+                    "ethumb": {
+                        "img": "http://file01.mengtuiapp.com/1/201904/36c3508df7aab87e-800x800.jpg?x-oss-process=style/middle_p",
+                        "ratio": "1"
+                    },
+                    "market_price": 39900,
+                    "min_group_price": 14800,
+                    "min_normal_price": 14800,
+                    "min_price": 14800,
+                    "sales": 41942,
+                    "mall_id": 100289,
+                    "money_types": [
+                        0
+                    ],
+                    "footnote": "迷你小巧 冷风加湿",
+                    "avatars": [
+                        "http://file04.mengtuiapp.com/1/wa/l3Jg_DekcNw=/1557459986.jpg?x-oss-process=style/avatar_p",
+                        "http://file01.mengtuiapp.com/1/wa/lnZq_Dehddo=/1559096155.jpg?x-oss-process=style/avatar_p",
+                        "http://file02.mengtuiapp.com/1/wa/lnZh-Tqte9c=/1559213321.jpg?x-oss-process=style/avatar_p"
+                    ],
+                    "review_cnt": 2138,
+                    "reward_mark": "",
+                    "show_cart": true
+                }
+            },
+            {
+                "type": 0,
+                "goods": {
+                    "goods_id": "459792",
+                    "goods_name": "扬子家用静音摇头落地电风扇",
+                    "short_name": "",
+                    "thumb_url": "http://file04.mengtuiapp.com/1/201905/e832d84019d5ecc9-800x800.jpg?x-oss-process=style/middle_p",
+                    "ethumb": {
+                        "img": "http://file04.mengtuiapp.com/1/201905/e832d84019d5ecc9-800x800.jpg?x-oss-process=style/middle_p",
+                        "ratio": "1"
+                    },
+                    "market_price": 19900,
+                    "min_group_price": 8900,
+                    "min_normal_price": 8900,
+                    "min_price": 8900,
+                    "sales": 74860,
+                    "mall_id": 101934,
+                    "money_types": [
+                        0
+                    ],
+                    "footnote": "风力强劲 质量保证",
+                    "avatars": [
+                        "http://file01.mengtuiapp.com/1/wa/lH9h_T-jdt4=/1555206753.jpg?x-oss-process=style/avatar_p",
+                        "http://file05.mengtuiapp.com/1/wa/l35v-Tyhc9g=/1558267122.jpg?x-oss-process=style/avatar_p"
+                    ],
+                    "review_cnt": 2384,
+                    "reward_mark": "",
+                    "show_cart": true
+                }
+            },
+            {
+                "type": 0,
+                "goods": {
+                    "goods_id": "312643",
+                    "goods_name": "Apple/苹果AirPods 2代无线蓝牙耳机原装运动耳麦iPhone耳机",
+                    "short_name": "",
+                    "thumb_url": "http://file06.mengtuiapp.com/1/201904/a900e171f2dfb857-800x800.jpg?x-oss-process=style/middle_p",
+                    "ethumb": {
+                        "img": "http://file06.mengtuiapp.com/1/201904/a900e171f2dfb857-800x800.jpg?x-oss-process=style/middle_p",
+                        "ratio": "1"
+                    },
+                    "market_price": 179900,
+                    "min_group_price": 139900,
+                    "min_normal_price": 139900,
+                    "min_price": 139900,
+                    "sales": 258,
+                    "mall_id": 105606,
+                    "money_types": [
+                        0
+                    ],
+                    "footnote": "全新原封正品未激活，顺丰速发",
+                    "avatars": [
+                        "http://file04.mengtuiapp.com/1/a/lHFh_Dahetw=/1554650423.jpg?x-oss-process=style/avatar_p",
+                        "http://file10.mengtuiapp.com/1/wa/lHBh-zmscd0=/1554943398.jpg?x-oss-process=style/avatar_p"
+                    ],
+                    "review_cnt": 10,
+                    "reward_mark": "",
+                    "show_cart": true
+                }
+            },
+            {
+                "type": 0,
+                "goods": {
+                    "goods_id": "129219",
+                    "goods_name": "德国汉佳欧斯（HanJiaOurs）不锈钢多功能绞肉机2L",
+                    "short_name": "",
+                    "thumb_url": "http://file01.mengtuiapp.com/1/201905/467d2bd62e851ea3-800x800.jpg?x-oss-process=style/middle_p",
+                    "ethumb": {
+                        "img": "http://file01.mengtuiapp.com/1/201905/467d2bd62e851ea3-800x800.jpg?x-oss-process=style/middle_p",
+                        "ratio": "1"
+                    },
+                    "market_price": 59900,
+                    "min_group_price": 7600,
+                    "min_normal_price": 7600,
+                    "min_price": 7600,
+                    "sales": 59398,
+                    "mall_id": 101625,
+                    "money_types": [
+                        0
+                    ],
+                    "footnote": "2L容量 双档调速",
+                    "marks": [
+                        {
+                            "text": "品牌",
+                            "style": 102
+                        }
+                    ],
+                    "avatars": [
+                        "http://file07.mengtuiapp.com/1/wa/lnZp-D-idtw=/1558935252.jpg?x-oss-process=style/avatar_p",
+                        "http://file02.mengtuiapp.com/1/wa/lnZp8zusdNk=/1558951624.jpg?x-oss-process=style/avatar_p",
+                        "http://file01.mengtuiapp.com/1/wa/lndg_Dindts=/1558919972.jpg?x-oss-process=style/avatar_p"
+                    ],
+                    "review_cnt": 42974,
+                    "reward_mark": "",
+                    "show_cart": true
+                }
+            },
+            {
+                "type": 0,
+                "goods": {
+                    "goods_id": "157410",
+                    "goods_name": "Chigo/志高便携式榨汁机家用迷你小型水果充电炸汁果汁机学生电动榨汁杯",
+                    "short_name": "",
+                    "thumb_url": "http://file05.mengtuiapp.com/1/201904/761b23f6fcc33c92-800x800.jpg?x-oss-process=style/middle_p",
+                    "ethumb": {
+                        "img": "http://file10.mengtuiapp.com/1/201903/b3d0a730434839d6-800x1200.jpg?x-oss-process=style/middle_p",
+                        "ratio": "0.67"
+                    },
+                    "market_price": 19900,
+                    "min_group_price": 6900,
+                    "min_normal_price": 6900,
+                    "min_price": 6900,
+                    "sales": 16693,
+                    "mall_id": 100289,
+                    "money_types": [
+                        0
+                    ],
+                    "footnote": "方便携带 可以给手机充电",
+                    "avatars": [
+                        "http://file02.mengtuiapp.com/1/wa/lHFo_TumdNk=/1554392947.jpg?x-oss-process=style/avatar_p",
+                        "http://file02.mengtuiapp.com/1/wa/l3Bg_Tqict0=/1557764173.jpg?x-oss-process=style/avatar_p",
+                        "http://file08.mengtuiapp.com/1/wa/kX5s_j-leg==/1547799956.jpg?x-oss-process=style/avatar_p"
+                    ],
+                    "review_cnt": 4320,
+                    "reward_mark": "收货送50推币",
+                    "show_cart": true,
+                    "recommend": {
+                        "avatar": "http://file02.mengtuiapp.com/1/201808/0941e2dc1fe80b82-1024x1024.jpg?x-oss-process=style/share_logo_p",
+                        "content": "Doris推荐：水果爱好吃不可少的神器，给宝宝做辅食也很方便，声音比较小，颜值很高，瞬间俘获小仙女的眼球。"
+                    }
+                }
+            },
+            {
+                "type": 0,
+                "goods": {
+                    "goods_id": "453388",
+                    "goods_name": "诺必行5.0无线蓝牙耳机双耳",
+                    "short_name": "",
+                    "thumb_url": "http://file05.mengtuiapp.com/1/201905/7814fad879fe1ee8-800x800.jpg?x-oss-process=style/middle_p",
+                    "ethumb": {
+                        "img": "http://file05.mengtuiapp.com/1/201905/7814fad879fe1ee8-800x800.jpg?x-oss-process=style/middle_p",
+                        "ratio": "1"
+                    },
+                    "market_price": 29900,
+                    "min_group_price": 3990,
+                    "min_normal_price": 3990,
+                    "min_price": 3990,
+                    "sales": 74087,
+                    "mall_id": 105248,
+                    "money_types": [
+                        0
+                    ],
+                    "footnote": "舒适佩戴，不胀痛，无线双耳立体",
+                    "avatars": [
+                        "http://file01.mengtuiapp.com/1/wa/k3Nr_zejcg==/1550127163.jpg?x-oss-process=style/avatar_p",
+                        "http://file06.mengtuiapp.com/1/wa/l35r_j6ndds=/1558135803.jpg?x-oss-process=style/avatar_p",
+                        "http://file07.mengtuiapp.com/1/wa/l35r_j6ncd0=/1558135779.jpg?x-oss-process=style/avatar_p"
+                    ],
+                    "review_cnt": 1966,
+                    "reward_mark": "",
+                    "show_cart": true
+                }
+            },
+            {
+                "type": 0,
+                "goods": {
+                    "goods_id": "452280",
+                    "goods_name": "Nerve More I9S双耳无线5.0蓝牙耳机",
+                    "short_name": "",
+                    "thumb_url": "http://file09.mengtuiapp.com/1/201905/e89a49dd3822d333-800x800.jpg?x-oss-process=style/middle_p",
+                    "ethumb": {
+                        "img": "http://file09.mengtuiapp.com/1/201905/e89a49dd3822d333-800x800.jpg?x-oss-process=style/middle_p",
+                        "ratio": "1"
+                    },
+                    "market_price": 29800,
+                    "min_group_price": 3990,
+                    "min_normal_price": 3990,
+                    "min_price": 3990,
+                    "sales": 72895,
+                    "mall_id": 100591,
+                    "money_types": [
+                        0
+                    ],
+                    "footnote": "双耳立体音 自带充电仓",
+                    "avatars": [
+                        "http://file01.mengtuiapp.com/1/wa/l3Jv8jekctg=/1557407027.jpg?x-oss-process=style/avatar_p",
+                        "http://file04.mengtuiapp.com/1/wa/l3Jv-D-idtY=/1557400701.jpg?x-oss-process=style/avatar_p",
+                        "http://file03.mengtuiapp.com/1/wa/l3Ju8jmlcNY=/1557415018.jpg?x-oss-process=style/avatar_p"
+                    ],
+                    "review_cnt": 27052,
+                    "reward_mark": "",
+                    "show_cart": true
+                }
+            },
+            {
+                "type": 0,
+                "goods": {
+                    "goods_id": "15115",
+                    "goods_name": "飞科/博锐双头剃须刀便携式充电刮胡刀PS187/185",
+                    "short_name": "",
+                    "thumb_url": "http://file08.mengtuiapp.com/1/201807/430e317ce7f8be61.jpg?x-oss-process=style/middle_p",
+                    "ethumb": {
+                        "img": "http://file08.mengtuiapp.com/1/201807/430e317ce7f8be61.jpg?x-oss-process=style/middle_p",
+                        "ratio": "1"
+                    },
+                    "market_price": 6990,
+                    "min_group_price": 2990,
+                    "min_normal_price": 2990,
+                    "min_price": 2990,
+                    "sales": 14968,
+                    "mall_id": 100289,
+                    "money_types": [
+                        0
+                    ],
+                    "footnote": "飞科出品  水洗刀头",
+                    "avatars": [
+                        "http://file05.mengtuiapp.com/1/wa/lnZr8zehdg==/1546098425.jpg?x-oss-process=style/avatar_p",
+                        "http://file07.mengtuiapp.com/1/wa/lnZu_jyieg==/1546164714.jpg?x-oss-process=style/avatar_p",
+                        "http://file09.mengtuiapp.com/1/wa/lndo-Teneg==/1545956417.jpg?x-oss-process=style/avatar_p"
+                    ],
+                    "review_cnt": 13124,
+                    "reward_mark": "收货送50推币",
+                    "show_cart": true,
+                    "recommend": {
+                        "avatar": "http://file09.mengtuiapp.com/1/201808/833e6563e37fb87e-200x200.jpg?x-oss-process=style/share_logo_p",
+                        "content": "陈苏维埃推荐：很不错的剃须刀，飞科出品，做工比的上国际大牌了，但是价格便宜了很多。剃的很干净，噪音很小."
+                    }
+                }
+            }
+        ],
+        "opts": [
+            {
+                "id": 1090,
+                "name": "办公用品"
+            },
+            {
+                "id": 1039,
+                "name": "手机数码"
+            },
+            {
+                "id": 1056,
+                "name": "生活电器"
+            },
+            {
+                "id": 1055,
+                "name": "厨房电器"
+            },
+            {
+                "id": 1054,
+                "name": "个护健康"
+            },
+            {
+                "id": 1052,
+                "name": "3C配件"
+            },
+            {
+                "id": 1053,
+                "name": "汽车配件"
+            }
+        ],
+        "offset": "20",
+        "ctx": "c",
+        "title": "电器"
+    }
+}
