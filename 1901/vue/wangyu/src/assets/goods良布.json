@@ -1,0 +1,754 @@
+{
+    "code": 0,
+    "time": 1559549809,
+    "data": {
+        "items": [
+            {
+                "type": 0,
+                "goods": {
+                    "goods_id": "38564",
+                    "goods_name": "良布三层本色抽纸100抽*6包/8包/16包/24包/30包",
+                    "short_name": "",
+                    "thumb_url": "http://file04.mengtuiapp.com/1/201901/585fcff4cac82f71-798x798.jpg?x-oss-process=style/middle_p",
+                    "ethumb": {
+                        "img": "http://file04.mengtuiapp.com/1/201901/585fcff4cac82f71-798x798.jpg?x-oss-process=style/middle_p",
+                        "ratio": "1"
+                    },
+                    "market_price": 4990,
+                    "min_group_price": 990,
+                    "min_normal_price": 990,
+                    "min_price": 990,
+                    "sales": 581874,
+                    "mall_id": 101011,
+                    "money_types": [
+                        0
+                    ],
+                    "footnote": "原生竹浆本色抽纸",
+                    "avatars": [
+                        "http://file10.mengtuiapp.com/1/wa/l39o-Des/1529039343.jpg?x-oss-process=style/avatar_p",
+                        "http://file06.mengtuiapp.com/1/wa/l3Ns_DysdA==/1544794431.jpg?x-oss-process=style/avatar_p",
+                        "http://file04.mengtuiapp.com/1/wa/l3Fp_T-ncw==/1545189671.jpg?x-oss-process=style/avatar_p"
+                    ],
+                    "review_cnt": 472593,
+                    "reward_mark": "收货送50推币",
+                    "show_cart": true,
+                    "recommend": {
+                        "avatar": "http://file07.mengtuiapp.com/1/201808/6f9660e6c18ddca8-200x200.jpg?x-oss-process=style/share_logo_p",
+                        "content": "加葱你就死定了推荐：竹浆本色抽纸，每包100抽。\r\n8包、18包、27包、30包装。\r\n不漂白更安全，不掉纸屑，柔韧度好"
+                    }
+                }
+            },
+            {
+                "type": 0,
+                "goods": {
+                    "goods_id": "160581",
+                    "goods_name": "洁柔手帕纸迷你装4层*6片*5包",
+                    "short_name": "",
+                    "thumb_url": "http://file06.mengtuiapp.com/1/201904/7b8418c6b64fe0aa-800x800.jpg?x-oss-process=style/middle_p",
+                    "ethumb": {
+                        "img": "http://file04.mengtuiapp.com/1/201905/52215a421e9b3c42-800x1200.jpg?x-oss-process=style/middle_p",
+                        "ratio": "0.67"
+                    },
+                    "market_price": 990,
+                    "min_group_price": 650,
+                    "min_normal_price": 650,
+                    "min_price": 650,
+                    "sales": 515426,
+                    "mall_id": 103162,
+                    "money_types": [
+                        0
+                    ],
+                    "footnote": "湿水不易烂 可做洗脸巾",
+                    "avatars": [
+                        "http://file09.mengtuiapp.com/1/wa/lHFq-j-jdt0=/1554452269.jpg?x-oss-process=style/avatar_p",
+                        "http://file05.mengtuiapp.com/1/wa/lH9h-Dyiew==/1543562347.jpg?x-oss-process=style/avatar_p",
+                        "http://file06.mengtuiapp.com/1/wa/lH5q-zegdNc=/1555322588.jpg?x-oss-process=style/avatar_p"
+                    ],
+                    "review_cnt": 348723,
+                    "reward_mark": "",
+                    "show_cart": true
+                }
+            },
+            {
+                "type": 0,
+                "goods": {
+                    "goods_id": "12563",
+                    "goods_name": "清风原木纯品3层无芯卷纸10卷*1提/2提/3提",
+                    "short_name": "3层75克/卷*30卷原木纯品无妇婴卷纸",
+                    "thumb_url": "http://file05.mengtuiapp.com/1/201811/19e70e90b1088e9d-800x800.jpg?x-oss-process=style/middle_p",
+                    "ethumb": {
+                        "img": "http://file05.mengtuiapp.com/1/201811/19e70e90b1088e9d-800x800.jpg?x-oss-process=style/middle_p",
+                        "ratio": "1"
+                    },
+                    "market_price": 4040,
+                    "min_group_price": 1290,
+                    "min_normal_price": 1290,
+                    "min_price": 1290,
+                    "sales": 259883,
+                    "mall_id": 100170,
+                    "money_types": [
+                        0
+                    ],
+                    "footnote": "清风3层无芯卷纸",
+                    "marks": [
+                        {
+                            "text": "大牌制造",
+                            "style": 101
+                        }
+                    ],
+                    "avatars": [
+                        "http://file10.mengtuiapp.com/1/wa/l3Bh_j-tcA==/1545562035.jpg?x-oss-process=style/avatar_p",
+                        "http://file09.mengtuiapp.com/1/wa/l3Zr_TeldQ==/1544189545.jpg?x-oss-process=style/avatar_p",
+                        "http://file01.mengtuiapp.com/1/wa/l3Vq-jmgdg==/1544349119.jpg?x-oss-process=style/avatar_p"
+                    ],
+                    "review_cnt": 226410,
+                    "reward_mark": "收货送20推币",
+                    "show_cart": true,
+                    "recommend": {
+                        "avatar": "http://file06.mengtuiapp.com/1/201807/f11f5cb882d43484-2364x2364.jpg?x-oss-process=style/share_logo_p",
+                        "content": "口哥推荐：30卷超值家庭装卷纸，3层加厚不易破损，适合放在家里的卫生间使用。清风作为国内纸业大品牌，无荧光剂添"
+                    }
+                }
+            },
+            {
+                "type": 0,
+                "goods": {
+                    "goods_id": "63721",
+                    "goods_name": "维达家用抽纸3层130抽/包*6/12/18/24包",
+                    "short_name": "",
+                    "thumb_url": "http://file03.mengtuiapp.com/1/201905/925795db1d4fc4ec-640x640.jpg?x-oss-process=style/middle_p",
+                    "ethumb": {
+                        "img": "http://file03.mengtuiapp.com/1/201905/925795db1d4fc4ec-640x640.jpg?x-oss-process=style/middle_p",
+                        "ratio": "1"
+                    },
+                    "market_price": 12800,
+                    "min_group_price": 1690,
+                    "min_normal_price": 1690,
+                    "min_price": 1690,
+                    "sales": 172292,
+                    "mall_id": 101581,
+                    "money_types": [
+                        0
+                    ],
+                    "footnote": "维达超韧 无惧湿水挑战",
+                    "avatars": [
+                        "http://file07.mengtuiapp.com/1/wa/lnJs_Tyteg==/1546698735.jpg?x-oss-process=style/avatar_p",
+                        "http://file09.mengtuiapp.com/1/wa/lHdv-zyget0=/1551792813.jpg?x-oss-process=style/avatar_p",
+                        "http://file06.mengtuiapp.com/1/wa/nHBu-zeieg==/1551494902.jpg?x-oss-process=style/avatar_p"
+                    ],
+                    "review_cnt": 128950,
+                    "reward_mark": "收货送50推币",
+                    "show_cart": true,
+                    "recommend": {
+                        "avatar": "http://file07.mengtuiapp.com/1/b/c/1526193339382335000.jpg?x-oss-process=style/share_logo_p",
+                        "content": "栖世推荐：原生木浆，接触肌肤平滑柔软，3层加厚的抽纸很适合放在书桌、餐桌旁，用来擦嘴、擦鼻涕等~ \r\n湿了也不"
+                    }
+                }
+            },
+            {
+                "type": 0,
+                "goods": {
+                    "goods_id": "40958",
+                    "goods_name": "蓝月亮薰衣草深层洁净机洗4斤家庭装（3件套）",
+                    "short_name": "",
+                    "thumb_url": "http://file04.mengtuiapp.com/1/201812/8f00259b85acfe6a-480x480.jpg?x-oss-process=style/middle_p",
+                    "ethumb": {
+                        "img": "http://file04.mengtuiapp.com/1/201812/8f00259b85acfe6a-480x480.jpg?x-oss-process=style/middle_p",
+                        "ratio": "1"
+                    },
+                    "market_price": 4650,
+                    "min_group_price": 3180,
+                    "min_normal_price": 3180,
+                    "min_price": 3180,
+                    "sales": 135867,
+                    "mall_id": 100947,
+                    "money_types": [
+                        0
+                    ],
+                    "footnote": "让衣物从里到外洁净如新",
+                    "avatars": [
+                        "http://file09.mengtuiapp.com/1/wa/lnJp_TihcA==/1546658355.jpg?x-oss-process=style/avatar_p",
+                        "http://file08.mengtuiapp.com/1/wa/lnFh_z2new==/1546862287.jpg?x-oss-process=style/avatar_p"
+                    ],
+                    "review_cnt": 115261,
+                    "reward_mark": "收货送50推币",
+                    "show_cart": true,
+                    "recommend": {
+                        "avatar": "http://file06.mengtuiapp.com/1/201807/c214fde47bca6025-960x854.jpg?x-oss-process=style/share_logo_p",
+                        "content": "雅雅推荐：4斤量贩装，1KG瓶装加上两袋补充装。\r\n都是喜欢的薰衣草香味。\r\n独特低粘配方，遇水讯溶，独特泡沫"
+                    }
+                }
+            },
+            {
+                "type": 0,
+                "goods": {
+                    "goods_id": "25421",
+                    "goods_name": "立白去油不伤手青柠洗洁精1kg*1/2瓶",
+                    "short_name": "",
+                    "thumb_url": "http://file09.mengtuiapp.com/1/201905/7fec9ac43a74e204-800x800.jpg?x-oss-process=style/middle_p",
+                    "ethumb": {
+                        "img": "http://file04.mengtuiapp.com/1/201809/82f22995ba7aa422-800x1200.jpg?x-oss-process=style/middle_p",
+                        "ratio": "0.67"
+                    },
+                    "market_price": 4990,
+                    "min_group_price": 1390,
+                    "min_normal_price": 1390,
+                    "min_price": 1390,
+                    "sales": 56955,
+                    "mall_id": 100668,
+                    "money_types": [
+                        0
+                    ],
+                    "footnote": "满69-5元",
+                    "marks": [
+                        {
+                            "text": "品牌",
+                            "style": 102
+                        }
+                    ],
+                    "avatars": [
+                        "http://file01.mengtuiapp.com/1/wa/lnZr_D6sdtg=/1559044522.jpg?x-oss-process=style/avatar_p",
+                        "http://file01.mengtuiapp.com/1/wa/lnZu-DytcNs=/1559195388.jpg?x-oss-process=style/avatar_p",
+                        "http://file01.mengtuiapp.com/1/wa/lnZh-jiic9c=/1559211654.jpg?x-oss-process=style/avatar_p"
+                    ],
+                    "review_cnt": 53093,
+                    "reward_mark": "收货送50推币",
+                    "show_cart": true,
+                    "recommend": {
+                        "avatar": "http://file04.mengtuiapp.com/1/201808/fe9419b299ea7a99-700x700.jpeg?x-oss-process=style/share_logo_p",
+                        "content": "西西西推荐：一直用这款洗洁精，青柠檬味的，去油非常好，洗完不会有残留，也不伤手。\r\n洗碗就用不伤手的立白洗洁精，"
+                    }
+                }
+            },
+            {
+                "type": 0,
+                "goods": {
+                    "goods_id": "72663",
+                    "goods_name": "依恋家用成人衣架衣服撑子晾衣架10/20/30/50个",
+                    "short_name": "",
+                    "thumb_url": "http://file06.mengtuiapp.com/1/201903/91de030a6bf10402-800x800.jpg?x-oss-process=style/middle_p",
+                    "ethumb": {
+                        "img": "http://file06.mengtuiapp.com/1/201903/91de030a6bf10402-800x800.jpg?x-oss-process=style/middle_p",
+                        "ratio": "1"
+                    },
+                    "market_price": 4800,
+                    "min_group_price": 720,
+                    "min_normal_price": 720,
+                    "min_price": 720,
+                    "sales": 46945,
+                    "mall_id": 101485,
+                    "money_types": [
+                        0
+                    ],
+                    "footnote": "环保 防滑 抗晒 实心金属",
+                    "avatars": [
+                        "http://file08.mengtuiapp.com/1/wa/lHNr_j-neto=/1553568429.jpg?x-oss-process=style/avatar_p",
+                        "http://file04.mengtuiapp.com/1/a/lHNo-T6lcd8=/1553501328.jpg?x-oss-process=style/avatar_p",
+                        "http://file09.mengtuiapp.com/1/wa/lHVg-z6icNo=/1552993292.jpg?x-oss-process=style/avatar_p"
+                    ],
+                    "review_cnt": 33177,
+                    "reward_mark": "收货送30推币",
+                    "show_cart": true,
+                    "recommend": {
+                        "avatar": "http://file06.mengtuiapp.com/1/201807/f11f5cb882d43484-2364x2364.jpg?x-oss-process=style/share_logo_p",
+                        "content": "口哥推荐：多功能晾晒好帮手，多种规格可选，满足不同需求，性价比高；结实耐用，不生锈，干湿两用，带有挂钩，方便晾"
+                    }
+                }
+            },
+            {
+                "type": 0,
+                "goods": {
+                    "goods_id": "86630",
+                    "goods_name": "中尚日化衣物被子整理袋衣物储物箱",
+                    "short_name": "",
+                    "thumb_url": "http://file01.mengtuiapp.com/1/201901/a0076405d20def4e-480x480.jpeg?x-oss-process=style/middle_p",
+                    "ethumb": {
+                        "img": "http://file01.mengtuiapp.com/1/201901/a0076405d20def4e-480x480.jpeg?x-oss-process=style/middle_p",
+                        "ratio": "1"
+                    },
+                    "market_price": 3200,
+                    "min_group_price": 990,
+                    "min_normal_price": 990,
+                    "min_price": 990,
+                    "sales": 40570,
+                    "mall_id": 101066,
+                    "money_types": [
+                        0
+                    ],
+                    "footnote": "结实耐用 防潮 便于搬运 美观",
+                    "avatars": [
+                        "http://file03.mengtuiapp.com/1/wa/lHFg-zymets=/1554678402.jpg?x-oss-process=style/avatar_p",
+                        "http://file08.mengtuiapp.com/1/wa/lHNr_j-neto=/1553568429.jpg?x-oss-process=style/avatar_p",
+                        "http://file10.mengtuiapp.com/1/wa/kHJv-TutdQ==/1548343342.jpg?x-oss-process=style/avatar_p"
+                    ],
+                    "review_cnt": 34420,
+                    "reward_mark": "收货送50推币",
+                    "show_cart": true,
+                    "recommend": {
+                        "avatar": "http://file06.mengtuiapp.com/1/201807/f11f5cb882d43484-2364x2364.jpg?x-oss-process=style/share_logo_p",
+                        "content": "口哥推荐：做工精细，结实耐用，无异味儿，透气防潮\r\n容量很大，可装棉被、冬季衣物等\r\n2种规格，可视化窗口，里"
+                    }
+                }
+            },
+            {
+                "type": 0,
+                "goods": {
+                    "goods_id": "50531",
+                    "goods_name": "清风原木纯品抽纸3层*120抽*6/12/18包",
+                    "short_name": "",
+                    "thumb_url": "http://file02.mengtuiapp.com/1/201905/bd21f56815a270a9-800x800.jpg?x-oss-process=style/middle_p",
+                    "ethumb": {
+                        "img": "http://file02.mengtuiapp.com/1/201905/bd21f56815a270a9-800x800.jpg?x-oss-process=style/middle_p",
+                        "ratio": "1"
+                    },
+                    "market_price": 8890,
+                    "min_group_price": 1680,
+                    "min_normal_price": 1680,
+                    "min_price": 1680,
+                    "sales": 33141,
+                    "mall_id": 100170,
+                    "money_types": [
+                        0
+                    ],
+                    "footnote": "温柔呵护肌肤",
+                    "marks": [
+                        {
+                            "text": "大牌制造",
+                            "style": 101
+                        }
+                    ],
+                    "avatars": [
+                        "http://file02.mengtuiapp.com/1/wa/lHNr-T6kc9w=/1553533560.jpg?x-oss-process=style/avatar_p",
+                        "http://file05.mengtuiapp.com/1/wa/lHNo-DigcN0=/1553506302.jpg?x-oss-process=style/avatar_p",
+                        "http://file01.mengtuiapp.com/1/wa/lHZv_jmhcNg=/1552458726.jpg?x-oss-process=style/avatar_p"
+                    ],
+                    "review_cnt": 26650,
+                    "reward_mark": "",
+                    "show_cart": true,
+                    "recommend": {
+                        "avatar": "http://file08.mengtuiapp.com/1/201809/eed333e24b685f37-700x700.jpg?x-oss-process=style/share_logo_p",
+                        "content": "白大飞推荐：本身比较懒，不爱用毛巾什么的，日常洗脸什么的都用抽纸，所以家中常囤，这款120抽，很耐用，也很柔韧舒"
+                    }
+                }
+            },
+            {
+                "type": 0,
+                "goods": {
+                    "goods_id": "502196",
+                    "goods_name": "维达超韧抽纸3层130抽*6/12/18/24包",
+                    "short_name": "",
+                    "thumb_url": "http://file06.mengtuiapp.com/1/201905/316809b193e6f702-800x800.jpg?x-oss-process=style/middle_p",
+                    "ethumb": {
+                        "img": "http://file06.mengtuiapp.com/1/201905/316809b193e6f702-800x800.jpg?x-oss-process=style/middle_p",
+                        "ratio": "1"
+                    },
+                    "market_price": 7800,
+                    "min_group_price": 1790,
+                    "min_normal_price": 1790,
+                    "min_price": 1790,
+                    "sales": 50914,
+                    "mall_id": 106331,
+                    "money_types": [
+                        0
+                    ],
+                    "footnote": "3层超韧，湿水不易破",
+                    "avatars": [
+                        "http://file03.mengtuiapp.com/1/wa/l3Nt_zikc9Y=/1557115301.jpg?x-oss-process=style/avatar_p",
+                        "http://file06.mengtuiapp.com/1/wa/lnZr_julddg=/1559038910.jpg?x-oss-process=style/avatar_p",
+                        "http://file09.mengtuiapp.com/1/wa/lnVu_Dilct0=/1559441681.jpg?x-oss-process=style/avatar_p"
+                    ],
+                    "review_cnt": 10570,
+                    "reward_mark": "收货送50推币",
+                    "show_cart": true
+                }
+            },
+            {
+                "type": 0,
+                "goods": {
+                    "goods_id": "703782",
+                    "goods_name": "清风【萌推定制】质感纯品3层110抽20包整箱",
+                    "short_name": "",
+                    "thumb_url": "http://file01.mengtuiapp.com/1/201906/467bce90088c170d-800x800.jpg?x-oss-process=style/middle_p",
+                    "ethumb": {
+                        "img": "http://file01.mengtuiapp.com/1/201906/467bce90088c170d-800x800.jpg?x-oss-process=style/middle_p",
+                        "ratio": "1"
+                    },
+                    "market_price": 8190,
+                    "min_group_price": 2990,
+                    "min_normal_price": 2990,
+                    "min_price": 2990,
+                    "sales": 23507,
+                    "mall_id": 100170,
+                    "money_types": [
+                        0
+                    ],
+                    "footnote": "萌推高端定制  安心更安全",
+                    "marks": [
+                        {
+                            "text": "大牌制造",
+                            "style": 101
+                        }
+                    ],
+                    "avatars": [
+                        "http://file09.mengtuiapp.com/1/wa/lnVh-j-jdNk=/1559447896.jpg?x-oss-process=style/avatar_p",
+                        "http://file05.mengtuiapp.com/1/wa/lnVq-Tuje9w=/1559349098.jpg?x-oss-process=style/avatar_p",
+                        "http://file08.mengtuiapp.com/1/wa/lnVp_T2hcto=/1559282426.jpg?x-oss-process=style/avatar_p"
+                    ],
+                    "review_cnt": 4561,
+                    "reward_mark": "收货送50推币",
+                    "show_cart": true,
+                    "recommend": {
+                        "avatar": "http://file10.mengtuiapp.com/1/201808/4a935f4553fbb795-690x690.jpg?x-oss-process=style/share_logo_p",
+                        "content": "爱吃的大睡魔推荐：清风为萌推用户定制，设计高端大气，三层柔软不掉屑，20包原生木浆满满一箱，一块多一包，勤俭持家首选。"
+                    }
+                }
+            },
+            {
+                "type": 0,
+                "goods": {
+                    "goods_id": "21855",
+                    "goods_name": "收纳博士真空压缩收纳袋11件套",
+                    "short_name": "",
+                    "thumb_url": "http://file02.mengtuiapp.com/1/201902/e28ad13238f41eeb-800x800.jpg?x-oss-process=style/middle_p",
+                    "ethumb": {
+                        "img": "http://file10.mengtuiapp.com/1/201808/2b27f622f1efffa0-800x1200.jpg?x-oss-process=style/middle_p",
+                        "ratio": "0.67"
+                    },
+                    "market_price": 12900,
+                    "min_group_price": 3850,
+                    "min_normal_price": 3850,
+                    "min_price": 3850,
+                    "sales": 29327,
+                    "mall_id": 100568,
+                    "money_types": [
+                        0
+                    ],
+                    "footnote": "漏气包补 买2套送电泵",
+                    "avatars": [
+                        "http://file05.mengtuiapp.com/1/wa/lnJr8zylcg==/1546677913.jpg?x-oss-process=style/avatar_p",
+                        "http://file01.mengtuiapp.com/1/wa/lnNg_jekcQ==/1546647931.jpg?x-oss-process=style/avatar_p",
+                        "http://file05.mengtuiapp.com/1/wa/lnNq-DetcQ==/1546565144.jpg?x-oss-process=style/avatar_p"
+                    ],
+                    "review_cnt": 23190,
+                    "reward_mark": "收货送50推币",
+                    "show_cart": true,
+                    "recommend": {
+                        "avatar": "http://file04.mengtuiapp.com/1/201808/063c717823a442e3-640x640.jpg?x-oss-process=style/share_logo_p",
+                        "content": "大白推荐：11件套，真空压缩袋，收纳的好帮手。冬天的衣服和被子，晒洗干净后真空打包好放在衣柜里，防潮防霉，节省"
+                    }
+                }
+            },
+            {
+                "type": 0,
+                "goods": {
+                    "goods_id": "201219",
+                    "goods_name": "汰渍净白去渍洗衣粉508g*1/2袋",
+                    "short_name": "",
+                    "thumb_url": "http://file08.mengtuiapp.com/1/201904/9b56a1d091e243d4-800x800.jpg?x-oss-process=style/middle_p",
+                    "ethumb": {
+                        "img": "http://file08.mengtuiapp.com/1/201904/9b56a1d091e243d4-800x800.jpg?x-oss-process=style/middle_p",
+                        "ratio": "1"
+                    },
+                    "market_price": 1390,
+                    "min_group_price": 860,
+                    "min_normal_price": 860,
+                    "min_price": 860,
+                    "sales": 87728,
+                    "mall_id": 100677,
+                    "money_types": [
+                        0
+                    ],
+                    "footnote": "净白去渍，强效去油污",
+                    "avatars": [
+                        "http://file06.mengtuiapp.com/1/wa/l3Vt-Tqldds=/1556379716.jpg?x-oss-process=style/avatar_p",
+                        "http://file09.mengtuiapp.com/1/wa/lHds_jikcdY=/1551779292.jpg?x-oss-process=style/avatar_p",
+                        "http://file03.mengtuiapp.com/1/wa/lHFs_zymd9s=/1554535342.jpg?x-oss-process=style/avatar_p"
+                    ],
+                    "review_cnt": 53007,
+                    "reward_mark": "",
+                    "show_cart": true
+                }
+            },
+            {
+                "type": 0,
+                "goods": {
+                    "goods_id": "458240",
+                    "goods_name": "荣事达高压锅家用燃气电磁炉通用 品牌直供",
+                    "short_name": "",
+                    "thumb_url": "http://file02.mengtuiapp.com/1/201905/9a3575ac203d908b-731x731.png?x-oss-process=style/middle_p",
+                    "ethumb": {
+                        "img": "http://file02.mengtuiapp.com/1/201905/9a3575ac203d908b-731x731.png?x-oss-process=style/middle_p",
+                        "ratio": "1"
+                    },
+                    "market_price": 39900,
+                    "min_group_price": 15600,
+                    "min_normal_price": 15600,
+                    "min_price": 15600,
+                    "sales": 78687,
+                    "mall_id": 101566,
+                    "money_types": [
+                        0
+                    ],
+                    "footnote": "自动排气 省时省力 不挑锅具",
+                    "avatars": [
+                        "http://file08.mengtuiapp.com/1/wa/lnZg_jenetw=/1559256273.jpg?x-oss-process=style/avatar_p",
+                        "http://file06.mengtuiapp.com/1/wa/nXBs-j6jcQ==/1551101163.jpg?x-oss-process=style/avatar_p",
+                        "http://file09.mengtuiapp.com/1/wa/l3Fg-jugdd0=/1557618487.jpg?x-oss-process=style/avatar_p"
+                    ],
+                    "review_cnt": 20447,
+                    "reward_mark": "",
+                    "show_cart": true
+                }
+            },
+            {
+                "type": 0,
+                "goods": {
+                    "goods_id": "58048",
+                    "goods_name": "洗碗海绵擦 5/10/20片",
+                    "short_name": "",
+                    "thumb_url": "http://file09.mengtuiapp.com/1/201812/e05c7d877a82fd81-742x742.jpeg?x-oss-process=style/middle_p",
+                    "ethumb": {
+                        "img": "http://file03.mengtuiapp.com/1/201812/06bb7cb9e6d01072-800x1200.jpg?x-oss-process=style/middle_p",
+                        "ratio": "0.67"
+                    },
+                    "market_price": 1990,
+                    "min_group_price": 390,
+                    "min_normal_price": 390,
+                    "min_price": 390,
+                    "sales": 23648,
+                    "mall_id": 101410,
+                    "money_types": [
+                        0
+                    ],
+                    "footnote": "便宜实用",
+                    "avatars": [
+                        "http://file10.mengtuiapp.com/1/wa/nHJt-Tehdw==/1551411299.jpg?x-oss-process=style/avatar_p",
+                        "http://file06.mengtuiapp.com/1/wa/l35u8zen/1530072474.jpg?x-oss-process=style/avatar_p",
+                        "http://file01.mengtuiapp.com/1/wa/kHJh_T6tcg==/1548386659.jpg?x-oss-process=style/avatar_p"
+                    ],
+                    "review_cnt": 19482,
+                    "reward_mark": "收货送30推币",
+                    "show_cart": true,
+                    "recommend": {
+                        "avatar": "http://file04.mengtuiapp.com/1/201808/18ed008b11c84663-200x200.jpg?x-oss-process=style/share_logo_p",
+                        "content": "团子麻麻推荐：高密度吸水海绵，柔软有弹性，吸水性好，手感柔腻，少量清洁剂，高效起泡率，去污清洁力强，方便耐用。"
+                    }
+                }
+            },
+            {
+                "type": 0,
+                "goods": {
+                    "goods_id": "190070",
+                    "goods_name": "奇强柠檬超洁洗洁精400g*1瓶/4瓶",
+                    "short_name": "",
+                    "thumb_url": "http://file01.mengtuiapp.com/1/201904/c949d1762a21aee4-800x800.jpg?x-oss-process=style/middle_p",
+                    "ethumb": {
+                        "img": "http://file01.mengtuiapp.com/1/201904/c949d1762a21aee4-800x800.jpg?x-oss-process=style/middle_p",
+                        "ratio": "1"
+                    },
+                    "market_price": 2900,
+                    "min_group_price": 750,
+                    "min_normal_price": 750,
+                    "min_price": 750,
+                    "sales": 52217,
+                    "mall_id": 104258,
+                    "money_types": [
+                        0
+                    ],
+                    "footnote": "瓜果蔬菜放心洗",
+                    "marks": [
+                        {
+                            "text": "品牌",
+                            "style": 102
+                        }
+                    ],
+                    "avatars": [
+                        "http://file04.mengtuiapp.com/1/wa/lHBh-T2hcN0=/1554947797.jpg?x-oss-process=style/avatar_p",
+                        "http://file09.mengtuiapp.com/1/wa/lHBp_D6let4=/1554739764.jpg?x-oss-process=style/avatar_p",
+                        "http://file06.mengtuiapp.com/1/wa/lHFg_Tuncdo=/1554705581.jpg?x-oss-process=style/avatar_p"
+                    ],
+                    "review_cnt": 537,
+                    "reward_mark": "收货送30推币",
+                    "show_cart": true
+                }
+            },
+            {
+                "type": 0,
+                "goods": {
+                    "goods_id": "63900",
+                    "goods_name": "维达蓝色经典有芯卷纸140g*10卷/20卷",
+                    "short_name": "",
+                    "thumb_url": "http://file08.mengtuiapp.com/1/201812/d8df25b45a10ed3f-800x800.png?x-oss-process=style/middle_p",
+                    "ethumb": {
+                        "img": "http://file08.mengtuiapp.com/1/201812/d8df25b45a10ed3f-800x800.png?x-oss-process=style/middle_p",
+                        "ratio": "1"
+                    },
+                    "market_price": 11900,
+                    "min_group_price": 2390,
+                    "min_normal_price": 2390,
+                    "min_price": 2390,
+                    "sales": 21262,
+                    "mall_id": 101581,
+                    "money_types": [
+                        0
+                    ],
+                    "footnote": "湿水不易破",
+                    "avatars": [
+                        "http://file03.mengtuiapp.com/1/wa/lnNo-j-gcw==/1546524622.jpg?x-oss-process=style/avatar_p",
+                        "http://file07.mengtuiapp.com/1/wa/lnZs_TagcQ==/1546145261.jpg?x-oss-process=style/avatar_p",
+                        "http://file03.mengtuiapp.com/1/wa/nX9p_j6mdQ==/1551137217.jpg?x-oss-process=style/avatar_p"
+                    ],
+                    "review_cnt": 16587,
+                    "reward_mark": "收货送90推币",
+                    "show_cart": true,
+                    "recommend": {
+                        "avatar": "http://file08.mengtuiapp.com/1/201808/4c152f4661c21dce-200x200.jpg?x-oss-process=style/share_logo_p",
+                        "content": "大辅服不服推荐：超纤密，加倍柔软，维达蓝色经典有芯卷纸~"
+                    }
+                }
+            },
+            {
+                "type": 0,
+                "goods": {
+                    "goods_id": "58624",
+                    "goods_name": "PEAC/PLAC小白鞋清洗剂100ml* 1/3/5瓶",
+                    "short_name": "",
+                    "thumb_url": "http://file06.mengtuiapp.com/1/201812/a183da32ee274ee7-530x530.png?x-oss-process=style/middle_p",
+                    "ethumb": {
+                        "img": "http://file06.mengtuiapp.com/1/201812/a183da32ee274ee7-530x530.png?x-oss-process=style/middle_p",
+                        "ratio": "1"
+                    },
+                    "market_price": 1590,
+                    "min_group_price": 480,
+                    "min_normal_price": 480,
+                    "min_price": 480,
+                    "sales": 19803,
+                    "mall_id": 101410,
+                    "money_types": [
+                        0
+                    ],
+                    "footnote": "一喷一擦除污净白",
+                    "avatars": [
+                        "http://file06.mengtuiapp.com/1/wa/kH5s-Tancg==/1549454252.jpg?x-oss-process=style/avatar_p",
+                        "http://file06.mengtuiapp.com/1/wa/lHVr-Dmnd9c=/1552724749.jpg?x-oss-process=style/avatar_p",
+                        "http://file09.mengtuiapp.com/1/wa/kX9r_jescQ==/1547713305.jpg?x-oss-process=style/avatar_p"
+                    ],
+                    "review_cnt": 18873,
+                    "reward_mark": "收货送30推币",
+                    "show_cart": true,
+                    "recommend": {
+                        "avatar": "http://file03.mengtuiapp.com/1/b/c/1526192630676345000.jpg?x-oss-process=style/share_logo_p",
+                        "content": "无心推荐：小白鞋脏了黄了没法穿，影响形象清洁也麻烦。\r\n一套解决白鞋发黄、污渍的问题，让小白鞋，\r\n洁净如新~"
+                    }
+                }
+            },
+            {
+                "type": 0,
+                "goods": {
+                    "goods_id": "242242",
+                    "goods_name": "蓝漂本色无芯卷纸卫生纸家庭装36卷700克/2100克",
+                    "short_name": "",
+                    "thumb_url": "http://file05.mengtuiapp.com/1/201904/273b1e0768d3710d-800x800.jpg?x-oss-process=style/middle_p",
+                    "ethumb": {
+                        "img": "http://file05.mengtuiapp.com/1/201904/273b1e0768d3710d-800x800.jpg?x-oss-process=style/middle_p",
+                        "ratio": "1"
+                    },
+                    "market_price": 9800,
+                    "min_group_price": 990,
+                    "min_normal_price": 990,
+                    "min_price": 990,
+                    "sales": 16398,
+                    "mall_id": 101178,
+                    "money_types": [
+                        0
+                    ],
+                    "footnote": "亲肤无刺激 实惠家庭装",
+                    "marks": [
+                        {
+                            "text": "品牌",
+                            "style": 102
+                        }
+                    ],
+                    "avatars": [
+                        "http://file01.mengtuiapp.com/1/wa/knBp_j-mdw==/1550673603.jpg?x-oss-process=style/avatar_p",
+                        "http://file08.mengtuiapp.com/1/wa/k3do_jagcg==/1549693308.jpg?x-oss-process=style/avatar_p",
+                        "http://file04.mengtuiapp.com/1/a/nXVu-zygdw==/1550908959.jpg?x-oss-process=style/avatar_p"
+                    ],
+                    "review_cnt": 7130,
+                    "reward_mark": "收货送30推币",
+                    "show_cart": true,
+                    "recommend": {
+                        "avatar": "http://file02.mengtuiapp.com/1/b/c/1526193131720844000.jpg?x-oss-process=style/share_logo_p",
+                        "content": "大青马推荐：纸巾大小合适不浪费，加厚四层，超强吸水，竹纤维好韧性，湿水不易破，水刺无纺布工艺，柔软亲肤不易掉渣"
+                    }
+                }
+            },
+            {
+                "type": 0,
+                "goods": {
+                    "goods_id": "12413",
+                    "goods_name": "美之扣家用手动多功能绞肉机黄色1.5升",
+                    "short_name": "手动绞肉机 豪华B组合（裸机）",
+                    "thumb_url": "http://file03.mengtuiapp.com/1/201805/90a1bca8d02c967e.jpg?x-oss-process=style/middle_p",
+                    "ethumb": {
+                        "img": "http://file03.mengtuiapp.com/1/201805/90a1bca8d02c967e.jpg?x-oss-process=style/middle_p",
+                        "ratio": "1"
+                    },
+                    "market_price": 9900,
+                    "min_group_price": 3500,
+                    "min_normal_price": 3500,
+                    "min_price": 3500,
+                    "sales": 14223,
+                    "mall_id": 100219,
+                    "money_types": [
+                        0
+                    ],
+                    "footnote": "家用手动绞肉机",
+                    "marks": [
+                        {
+                            "text": "品牌",
+                            "style": 102
+                        }
+                    ],
+                    "avatars": [
+                        "http://file10.mengtuiapp.com/1/wa/l39t-zeicw==/1545694769.jpg?x-oss-process=style/avatar_p",
+                        "http://file07.mengtuiapp.com/1/wa/lnVp8jqhcw==/1546213844.jpg?x-oss-process=style/avatar_p",
+                        "http://file03.mengtuiapp.com/1/wa/lndg8j-lcA==/1546072844.jpg?x-oss-process=style/avatar_p"
+                    ],
+                    "review_cnt": 12432,
+                    "reward_mark": "收货送50推币",
+                    "show_cart": true,
+                    "recommend": {
+                        "avatar": "http://file03.mengtuiapp.com/1/201808/d5b4617887f45f90-560x560.jpg?x-oss-process=style/share_logo_p",
+                        "content": "兔子大王推荐：作为小厨娘，这个厨房神器是必备，无论是绞肉还是搅菜都非常方便，手动操作也不累，轻轻松松就搅拌好了。容"
+                    }
+                }
+            }
+        ],
+        "opts": [
+            {
+                "id": 1067,
+                "name": "家庭清洁"
+            },
+            {
+                "id": 1065,
+                "name": "纸品湿巾"
+            },
+            {
+                "id": 1066,
+                "name": "收纳整理"
+            },
+            {
+                "id": 1001,
+                "name": "厨房用品"
+            },
+            {
+                "id": 999,
+                "name": "日用百货"
+            }
+        ],
+        "offset": "20",
+        "ctx": "c",
+        "title": "家居"
+    }
+}
