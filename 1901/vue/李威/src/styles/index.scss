@@ -1,0 +1,37 @@
+@import "common";
+@import "animate.css";
+@import "fonts/iconfont.css";
+@import "mint-ui.css";
+@import "vant.css";
+
+
+
+
+
+$base_font:20px;
+$base_color:green;
+
+// 全局样式  global 
+html,
+body,
+#app,
+.box {
+    width: 100vw;
+    height: 100vh;
+}
+
+.box {
+    color: $base_color;
+}
+
+.move {
+    animation: zoomIn 1s;
+}
+
+.shake {
+    animation: shake 1s;
+}
+
+.pulse {
+    animation: shake 1s;
+}
