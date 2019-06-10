@@ -1,0 +1,35 @@
+
+
+@import "common";
+@import "animate.css";
+@import "mint-ui.css";
+@import "fonts/iconfont.css";
+
+
+
+$base_font:20px;
+$base_color:yellow;
+
+// 全局样式  golbal 
+html,body,#app,.box{
+    width:100vw;
+    height:100vh;
+  
+}
+
+.box{
+    color:$base_color;
+}
+
+.move{
+    animation: zoomInDown 1s;
+}
+// .item{
+//     animation: bounceln 1s;
+// }
+.mint-navbar .mint-tab-item.is-selected{
+  
+    border-bottom: 5px solid red;
+    color: red;
+    margin-bottom: -3px;
+}
