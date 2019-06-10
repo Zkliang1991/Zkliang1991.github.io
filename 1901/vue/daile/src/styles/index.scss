@@ -1,0 +1,34 @@
+
+
+@import "common";
+@import "animate.css";
+@import "mint-ui.css";
+@import "font/iconfont.css";
+
+
+
+
+$base_font:20px;
+$base_color:#666;
+
+// 全局样式  golbal 
+html,body,#app,.box{
+    width:100vw;
+    height:100vh;
+}
+
+.box{
+    color:$base_color;
+}
+.move{
+    animation:fadeInUp 1s;
+}
+.move1{
+    animation:rotateInDownLeft 1s;
+}
+.move2{
+    animation:zoomIn 1s;
+}
+.move3{
+    animation:zoomInDown 1s;
+}
