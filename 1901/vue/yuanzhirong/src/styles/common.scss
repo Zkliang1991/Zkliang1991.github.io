@@ -1,0 +1,72 @@
+$yh:"Microsoft yahei";
+
+
+html {
+   font-size: 62.5%; 
+   font-family:$yh;
+   font-size:calc(100vw/7.5);      // 移动端 适配    750:100 = 100vw:x  7.5:1 = 100vw:x  x =100vw/7.5
+   font-size:-webket-calc(100vw/7.5);   // 设计稿宽度  640px 
+}
+body,h1,h2,h3,h4,h5,h6,blockquote,ol,ul,dl,dd,p,textarea,input,select,option,form {
+    margin:0; padding:0;
+}
+body{
+    background: #f5f4f0;
+    -webkit-tap-highlight-color:transparent;
+    font-size:16px;
+}
+ 
+ol,ul,textarea,input,option,th,td {
+    padding:0;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    font-weight: normal;
+    font-size:100%;
+}
+article, aside, details, figcaption, figure, footer, header, menu, nav, section {
+    display: block;
+}
+table {
+    border-collapse:collapse;border-spacing: 0;
+}
+ul,ol { 
+    list-style-type:none;
+}
+.clearfix:after {
+    content:'.';display:block;height:0;clear:both;visibility:hidden;
+}
+//.clearfix {*zoom:1;}
+.clear {
+    clear:both;height:0;overflow:hidden;
+}
+
+input[type=text],textarea{
+    -webkit-appearance:none;
+}
+
+input:focus{
+    -webkit-user-modify:read-write-plaintext-only;
+}
+fieldset, img {
+    border: 0;
+}
+img{
+    display: block;
+}
+a {
+    text-decoration:none;
+}
+a,textarea,input{
+    outline:none;
+}
+blockquote, q {
+    quotes: none;
+}
+blockquote:before, blockquote:after, q:before, q:after {
+  content: '';
+  content: none;
+}
+textarea {
+    overflow:auto;resize:none;
+}
