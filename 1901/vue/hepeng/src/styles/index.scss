@@ -1,0 +1,21 @@
+// 引入公共样式
+@import "common";
+// 移入mint-ui样式库
+@import "mint-ui.css";
+// 引入动画库
+@import "animate.css";
+// 引入图标库
+@import "font/iconfont.css";
+$base_color:darkcyan;
+$base_ft:80px;
+html,
+body,
+#app,
+.swipe {
+    width: 100%;
+    height: 100%;
+}
+
+.move {
+    animation: bounceIn 1s;
+}
