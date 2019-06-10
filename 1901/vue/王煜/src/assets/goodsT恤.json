@@ -1,0 +1,653 @@
+{
+    "code": 0,
+    "time": 1559549729,
+    "data": {
+        "items": [
+            {
+                "type": 0,
+                "goods": {
+                    "goods_id": "142056",
+                    "goods_name": "BVOMOL2019夏季新款韩版时尚休闲全棉男士短袖T恤衫",
+                    "short_name": "",
+                    "thumb_url": "http://file04.mengtuiapp.com/1/201906/adb0a6109c46a738-750x750.jpg?x-oss-process=style/middle_p",
+                    "ethumb": {
+                        "img": "http://file04.mengtuiapp.com/1/201906/adb0a6109c46a738-750x750.jpg?x-oss-process=style/middle_p",
+                        "ratio": "1"
+                    },
+                    "market_price": 5600,
+                    "min_group_price": 1990,
+                    "min_normal_price": 1990,
+                    "min_price": 1990,
+                    "sales": 1663,
+                    "mall_id": 102555,
+                    "money_types": [
+                        0
+                    ],
+                    "footnote": "潮流 印花 全棉 舒适",
+                    "coupon_mark": "可领券",
+                    "avatars": [
+                        "http://file09.mengtuiapp.com/1/wa/lHZo_zimcN8=/1552102186.jpg?x-oss-process=style/avatar_p",
+                        "http://file01.mengtuiapp.com/1/wa/lHVo-z-ie9c=/1552681330.jpg?x-oss-process=style/avatar_p",
+                        "http://file09.mengtuiapp.com/1/wa/lHRg_DyicNw=/1553426957.jpg?x-oss-process=style/avatar_p"
+                    ],
+                    "review_cnt": 42,
+                    "reward_mark": "",
+                    "show_cart": true
+                }
+            },
+            {
+                "type": 0,
+                "goods": {
+                    "goods_id": "168107",
+                    "goods_name": "BVOMOL夏装时尚休闲弹力男士短袖T恤",
+                    "short_name": "",
+                    "thumb_url": "http://file09.mengtuiapp.com/1/201903/c79808da96300d56-800x800.jpg?x-oss-process=style/middle_p",
+                    "ethumb": {
+                        "img": "http://file09.mengtuiapp.com/1/201903/c79808da96300d56-800x800.jpg?x-oss-process=style/middle_p",
+                        "ratio": "1"
+                    },
+                    "market_price": 4900,
+                    "min_group_price": 1990,
+                    "min_normal_price": 1990,
+                    "min_price": 1990,
+                    "sales": 1646,
+                    "mall_id": 102555,
+                    "money_types": [
+                        0
+                    ],
+                    "footnote": "拼接时尚 弹力舒适",
+                    "coupon_mark": "可领券",
+                    "avatars": [
+                        "http://file06.mengtuiapp.com/1/wa/lHJt-zuietg=/1554079938.jpg?x-oss-process=style/avatar_p",
+                        "http://file07.mengtuiapp.com/1/wa/k3Vq8zumcw==/1549987064.jpg?x-oss-process=style/avatar_p",
+                        "http://file10.mengtuiapp.com/1/wa/kHdp-Dek/1536709363.jpg?x-oss-process=style/avatar_p"
+                    ],
+                    "review_cnt": 98,
+                    "reward_mark": "",
+                    "show_cart": true
+                }
+            },
+            {
+                "type": 0,
+                "goods": {
+                    "goods_id": "208720",
+                    "goods_name": "型男半袖男生打底衫潮牌体恤男",
+                    "short_name": "",
+                    "thumb_url": "http://file02.mengtuiapp.com/1/201904/23a74c6a4faa3ead-1000x1000.jpg?x-oss-process=style/middle_p",
+                    "ethumb": {
+                        "img": "http://file07.mengtuiapp.com/1/201904/ceeaed731d8608b4-800x1200.jpg?x-oss-process=style/middle_p",
+                        "ratio": "0.67"
+                    },
+                    "market_price": 2990,
+                    "min_group_price": 990,
+                    "min_normal_price": 990,
+                    "min_price": 990,
+                    "sales": 1558,
+                    "mall_id": 102256,
+                    "money_types": [
+                        0
+                    ],
+                    "footnote": "男士短袖t恤夏季潮流",
+                    "avatars": [
+                        "http://file06.mengtuiapp.com/1/wa/lHVp_zmket0=/1552655756.jpg?x-oss-process=style/avatar_p",
+                        "http://file01.mengtuiapp.com/1/wa/l3dp-zihd94=/1555564355.jpg?x-oss-process=style/avatar_p",
+                        "http://file08.mengtuiapp.com/1/wa/lHVg_T6gcN4=/1553018965.jpg?x-oss-process=style/avatar_p"
+                    ],
+                    "review_cnt": 1049,
+                    "reward_mark": "收货送100推币",
+                    "show_cart": true
+                }
+            },
+            {
+                "type": 0,
+                "goods": {
+                    "goods_id": "161209",
+                    "goods_name": "BVOMOL2019夏季新款不规则线条时尚休闲男士短袖T恤",
+                    "short_name": "",
+                    "thumb_url": "http://file06.mengtuiapp.com/1/201906/45c6c23c845d66bb-800x800.jpg?x-oss-process=style/middle_p",
+                    "ethumb": {
+                        "img": "http://file06.mengtuiapp.com/1/201906/45c6c23c845d66bb-800x800.jpg?x-oss-process=style/middle_p",
+                        "ratio": "1"
+                    },
+                    "market_price": 8900,
+                    "min_group_price": 1990,
+                    "min_normal_price": 1990,
+                    "min_price": 1990,
+                    "sales": 1612,
+                    "mall_id": 102555,
+                    "money_types": [
+                        0
+                    ],
+                    "footnote": "潮流 时尚  精致",
+                    "coupon_mark": "可领券",
+                    "avatars": [
+                        "http://file05.mengtuiapp.com/1/wa/lHNt_zitdtw=/1553682427.jpg?x-oss-process=style/avatar_p",
+                        "http://file06.mengtuiapp.com/1/wa/lHNu-DagdNk=/1553835190.jpg?x-oss-process=style/avatar_p",
+                        "http://file07.mengtuiapp.com/1/wa/lHJq-zene9o=/1554033662.jpg?x-oss-process=style/avatar_p"
+                    ],
+                    "review_cnt": 9,
+                    "reward_mark": "",
+                    "show_cart": true
+                }
+            },
+            {
+                "type": 0,
+                "goods": {
+                    "goods_id": "161175",
+                    "goods_name": "BVOMOL夏季新款精致印花宽松大码全棉男士短袖T恤衫",
+                    "short_name": "",
+                    "thumb_url": "http://file09.mengtuiapp.com/1/201905/150d50f41291b47c-800x800.jpg?x-oss-process=style/middle_p",
+                    "ethumb": {
+                        "img": "http://file09.mengtuiapp.com/1/201905/150d50f41291b47c-800x800.jpg?x-oss-process=style/middle_p",
+                        "ratio": "1"
+                    },
+                    "market_price": 4900,
+                    "min_group_price": 3900,
+                    "min_normal_price": 3900,
+                    "min_price": 3900,
+                    "sales": 1618,
+                    "mall_id": 102555,
+                    "money_types": [
+                        0
+                    ],
+                    "footnote": "全棉 有大码可穿200斤",
+                    "coupon_mark": "可领券",
+                    "avatars": [
+                        "http://file07.mengtuiapp.com/1/wa/lHZg8zqte9o=/1552638054.jpg?x-oss-process=style/avatar_p",
+                        "http://file10.mengtuiapp.com/1/wa/kn5o8jaidg==/1550763421.jpg?x-oss-process=style/avatar_p",
+                        "http://file01.mengtuiapp.com/1/wa/ln9p-j-new==/1547038434.jpg?x-oss-process=style/avatar_p"
+                    ],
+                    "review_cnt": 88,
+                    "reward_mark": "",
+                    "show_cart": true
+                }
+            },
+            {
+                "type": 0,
+                "goods": {
+                    "goods_id": "161153",
+                    "goods_name": "BVOMOL2019夏季新款潮流时尚弹力字母印花男士短袖T恤",
+                    "short_name": "",
+                    "thumb_url": "http://file03.mengtuiapp.com/1/201905/90144b79675e7656-800x800.jpg?x-oss-process=style/middle_p",
+                    "ethumb": {
+                        "img": "http://file03.mengtuiapp.com/1/201905/90144b79675e7656-800x800.jpg?x-oss-process=style/middle_p",
+                        "ratio": "1"
+                    },
+                    "market_price": 4900,
+                    "min_group_price": 1990,
+                    "min_normal_price": 1990,
+                    "min_price": 1990,
+                    "sales": 1574,
+                    "mall_id": 102555,
+                    "money_types": [
+                        0
+                    ],
+                    "footnote": "印花 时尚 弹力 精致",
+                    "coupon_mark": "可领券",
+                    "avatars": [
+                        "http://file09.mengtuiapp.com/1/wa/lHRu-Tuhddw=/1553342694.jpg?x-oss-process=style/avatar_p",
+                        "http://file04.mengtuiapp.com/1/wa/lHJq-Tmkdtg=/1554037639.jpg?x-oss-process=style/avatar_p",
+                        "http://file02.mengtuiapp.com/1/wa/lHRu_D-lcN8=/1553355482.jpg?x-oss-process=style/avatar_p"
+                    ],
+                    "review_cnt": 63,
+                    "reward_mark": "",
+                    "show_cart": true
+                }
+            },
+            {
+                "type": 0,
+                "goods": {
+                    "goods_id": "137425",
+                    "goods_name": "BVOMOL2019夏季新款韩版印花圆领男士短袖T恤衫",
+                    "short_name": "",
+                    "thumb_url": "http://file01.mengtuiapp.com/1/201905/4b0b3a785b34b6c4-800x800.jpg?x-oss-process=style/middle_p",
+                    "ethumb": {
+                        "img": "http://file01.mengtuiapp.com/1/201905/4b0b3a785b34b6c4-800x800.jpg?x-oss-process=style/middle_p",
+                        "ratio": "1"
+                    },
+                    "market_price": 4900,
+                    "min_group_price": 1990,
+                    "min_normal_price": 1990,
+                    "min_price": 1990,
+                    "sales": 1586,
+                    "mall_id": 102555,
+                    "money_types": [
+                        0
+                    ],
+                    "footnote": "弹力 冰爽 舒适",
+                    "coupon_mark": "可领券",
+                    "avatars": [
+                        "http://file09.mengtuiapp.com/1/wa/lHRs-j-gdNc=/1553269419.jpg?x-oss-process=style/avatar_p",
+                        "http://file03.mengtuiapp.com/1/wa/k3Ns_zqscw==/1550135658.jpg?x-oss-process=style/avatar_p",
+                        "http://file08.mengtuiapp.com/1/wa/lHZp-T-iets=/1552034459.jpg?x-oss-process=style/avatar_p"
+                    ],
+                    "review_cnt": 61,
+                    "reward_mark": "",
+                    "show_cart": true
+                }
+            },
+            {
+                "type": 0,
+                "goods": {
+                    "goods_id": "446566",
+                    "goods_name": "花花公子/PLAYBOY短袖运动套装男",
+                    "short_name": "",
+                    "thumb_url": "http://file05.mengtuiapp.com/1/201905/835da6255fa545bc-800x800.jpg?x-oss-process=style/middle_p",
+                    "ethumb": {
+                        "img": "http://file05.mengtuiapp.com/1/201905/835da6255fa545bc-800x800.jpg?x-oss-process=style/middle_p",
+                        "ratio": "1"
+                    },
+                    "market_price": 17900,
+                    "min_group_price": 3990,
+                    "min_normal_price": 3990,
+                    "min_price": 3990,
+                    "sales": 650,
+                    "mall_id": 104890,
+                    "money_types": [
+                        0
+                    ],
+                    "footnote": "花花公子正品 潮流新品",
+                    "coupon_mark": "可领券",
+                    "avatars": [
+                        "http://file01.mengtuiapp.com/1/wa/lH9v-Desddk=/1555148994.jpg?x-oss-process=style/avatar_p",
+                        "http://file04.mengtuiapp.com/1/wa/l3Bo_Dald9s=/1557652789.jpg?x-oss-process=style/avatar_p",
+                        "http://file06.mengtuiapp.com/1/wa/lHRs-jeje90=/1553272583.jpg?x-oss-process=style/avatar_p"
+                    ],
+                    "review_cnt": 197,
+                    "reward_mark": "收货送80推币",
+                    "show_cart": true
+                }
+            },
+            {
+                "type": 0,
+                "goods": {
+                    "goods_id": "136949",
+                    "goods_name": "BVOMOL2019潮流时尚休闲男士短袖衬衫",
+                    "short_name": "",
+                    "thumb_url": "http://file04.mengtuiapp.com/1/201903/40a421b28c2d3a77-800x800.jpg?x-oss-process=style/middle_p",
+                    "ethumb": {
+                        "img": "http://file04.mengtuiapp.com/1/201903/40a421b28c2d3a77-800x800.jpg?x-oss-process=style/middle_p",
+                        "ratio": "1"
+                    },
+                    "market_price": 39800,
+                    "min_group_price": 6900,
+                    "min_normal_price": 6900,
+                    "min_price": 6900,
+                    "sales": 1522,
+                    "mall_id": 102555,
+                    "money_types": [
+                        0
+                    ],
+                    "footnote": "高棉质 精致 印花 潮流 品牌",
+                    "coupon_mark": "可领券",
+                    "avatars": [
+                        "http://file09.mengtuiapp.com/1/wa/lHRo_jyjcd8=/1553138249.jpg?x-oss-process=style/avatar_p",
+                        "http://file08.mengtuiapp.com/1/wa/lHVq-DegcN0=/1552753988.jpg?x-oss-process=style/avatar_p",
+                        "http://file04.mengtuiapp.com/1/wa/lHZg-z-ncto=/1552585186.jpg?x-oss-process=style/avatar_p"
+                    ],
+                    "review_cnt": 15,
+                    "reward_mark": "",
+                    "show_cart": true
+                }
+            },
+            {
+                "type": 0,
+                "goods": {
+                    "goods_id": "139793",
+                    "goods_name": "BVOMOL夏季新款时尚休闲印花凉爽连帽男士防晒衣外套",
+                    "short_name": "",
+                    "thumb_url": "http://file01.mengtuiapp.com/1/201905/ae7963edc6832f56-800x800.jpg?x-oss-process=style/middle_p",
+                    "ethumb": {
+                        "img": "http://file01.mengtuiapp.com/1/201905/ae7963edc6832f56-800x800.jpg?x-oss-process=style/middle_p",
+                        "ratio": "1"
+                    },
+                    "market_price": 19800,
+                    "min_group_price": 3990,
+                    "min_normal_price": 3990,
+                    "min_price": 3990,
+                    "sales": 1492,
+                    "mall_id": 102555,
+                    "money_types": [
+                        0
+                    ],
+                    "footnote": "弹力  时尚",
+                    "coupon_mark": "可领券",
+                    "avatars": [
+                        "http://file02.mengtuiapp.com/1/wa/lHRu8juhcN0=/1553382274.jpg?x-oss-process=style/avatar_p",
+                        "http://file01.mengtuiapp.com/1/wa/lHVv8jmmdN0=/1552904392.jpg?x-oss-process=style/avatar_p",
+                        "http://file06.mengtuiapp.com/1/wa/lHNu8zykct4=/1553852529.jpg?x-oss-process=style/avatar_p"
+                    ],
+                    "review_cnt": 113,
+                    "reward_mark": "",
+                    "show_cart": true
+                }
+            },
+            {
+                "type": 0,
+                "goods": {
+                    "goods_id": "127566",
+                    "goods_name": "兴途男士修身防晒衣",
+                    "short_name": "",
+                    "thumb_url": "http://file01.mengtuiapp.com/1/201903/f4257ce22a91415e-800x800.jpg?x-oss-process=style/middle_p",
+                    "ethumb": {
+                        "img": "http://file01.mengtuiapp.com/1/201903/8648e720d06e849a-800x1200.jpg?x-oss-process=style/middle_p",
+                        "ratio": "0.67"
+                    },
+                    "market_price": 15900,
+                    "min_group_price": 2990,
+                    "min_normal_price": 2990,
+                    "min_price": 2990,
+                    "sales": 1455,
+                    "mall_id": 102953,
+                    "money_types": [
+                        0
+                    ],
+                    "footnote": "亲肤透气 防晒防紫外线",
+                    "avatars": [
+                        "http://file09.mengtuiapp.com/1/wa/lHZv_zuid94=/1552450665.jpg?x-oss-process=style/avatar_p",
+                        "http://file02.mengtuiapp.com/1/wa/lHZv_zajet4=/1552452345.jpg?x-oss-process=style/avatar_p",
+                        "http://file01.mengtuiapp.com/1/wa/lHZh8jmkcdc=/1552581567.jpg?x-oss-process=style/avatar_p"
+                    ],
+                    "review_cnt": 1112,
+                    "reward_mark": "收货送100推币",
+                    "show_cart": true
+                }
+            },
+            {
+                "type": 0,
+                "goods": {
+                    "goods_id": "85679",
+                    "goods_name": "尊象春夏男士真皮休闲透气舒适皮鞋",
+                    "short_name": "",
+                    "thumb_url": "http://file03.mengtuiapp.com/1/201904/1d0405de56d01b21-800x800.jpg?x-oss-process=style/middle_p",
+                    "ethumb": {
+                        "img": "http://file03.mengtuiapp.com/1/201904/1d0405de56d01b21-800x800.jpg?x-oss-process=style/middle_p",
+                        "ratio": "1"
+                    },
+                    "market_price": 22900,
+                    "min_group_price": 11800,
+                    "min_normal_price": 11800,
+                    "min_price": 11800,
+                    "sales": 1396,
+                    "mall_id": 101797,
+                    "money_types": [
+                        0
+                    ],
+                    "footnote": "真皮牛皮+软底",
+                    "avatars": [
+                        "http://file07.mengtuiapp.com/1/wa/nHNp-jik/1539483132.jpg?x-oss-process=style/avatar_p",
+                        "http://file09.mengtuiapp.com/1/wa/l3Vp_TikcNg=/1556260876.jpg?x-oss-process=style/avatar_p",
+                        "http://file02.mengtuiapp.com/1/wa/lH5t-jukdtk=/1555347322.jpg?x-oss-process=style/avatar_p"
+                    ],
+                    "review_cnt": 1096,
+                    "reward_mark": "",
+                    "show_cart": true,
+                    "recommend": {
+                        "avatar": "http://file08.mengtuiapp.com/1/201808/4c152f4661c21dce-200x200.jpg?x-oss-process=style/share_logo_p",
+                        "content": "大辅服不服推荐：有型的品味之选！鞋面采用细腻头层牛皮 防水皮质 雨雪天也放心穿！内里加厚毛绒 持久恒温保暖！防滑橡胶"
+                    }
+                }
+            },
+            {
+                "type": 0,
+                "goods": {
+                    "goods_id": "164210",
+                    "goods_name": "京迈郎2019新款透气男士运动休闲潮鞋",
+                    "short_name": "",
+                    "thumb_url": "http://file02.mengtuiapp.com/1/201903/bd60f20a638183b0-800x800.jpg?x-oss-process=style/middle_p",
+                    "ethumb": {
+                        "img": "http://file02.mengtuiapp.com/1/201903/bd60f20a638183b0-800x800.jpg?x-oss-process=style/middle_p",
+                        "ratio": "1"
+                    },
+                    "market_price": 9900,
+                    "min_group_price": 2590,
+                    "min_normal_price": 2590,
+                    "min_price": 2590,
+                    "sales": 1290,
+                    "mall_id": 102269,
+                    "money_types": [
+                        0
+                    ],
+                    "footnote": "百搭 舒适 透气",
+                    "avatars": [
+                        "http://file02.mengtuiapp.com/1/wa/lH5u_jasddw=/1555475023.jpg?x-oss-process=style/avatar_p",
+                        "http://file04.mengtuiapp.com/1/wa/lH5u_T2tdtc=/1555476231.jpg?x-oss-process=style/avatar_p",
+                        "http://file01.mengtuiapp.com/1/wa/lH5t8zmndNw=/1555388272.jpg?x-oss-process=style/avatar_p"
+                    ],
+                    "review_cnt": 891,
+                    "reward_mark": "收货送100推币",
+                    "show_cart": true
+                }
+            },
+            {
+                "type": 0,
+                "goods": {
+                    "goods_id": "110936",
+                    "goods_name": "京足绣透气耐磨防滑轻便飞织单鞋男",
+                    "short_name": "",
+                    "thumb_url": "http://file01.mengtuiapp.com/1/201903/04ed8919449d1d85-800x800.jpg?x-oss-process=style/middle_p",
+                    "ethumb": {
+                        "img": "http://file01.mengtuiapp.com/1/201903/04ed8919449d1d85-800x800.jpg?x-oss-process=style/middle_p",
+                        "ratio": "1"
+                    },
+                    "market_price": 6990,
+                    "min_group_price": 2990,
+                    "min_normal_price": 2990,
+                    "min_price": 2990,
+                    "sales": 1365,
+                    "mall_id": 102387,
+                    "money_types": [
+                        0
+                    ],
+                    "footnote": "时尚耐磨",
+                    "avatars": [
+                        "http://file02.mengtuiapp.com/1/wa/lHRv8jine9g=/1553334768.jpg?x-oss-process=style/avatar_p",
+                        "http://file01.mengtuiapp.com/1/wa/lHRg_Datc90=/1553428649.jpg?x-oss-process=style/avatar_p",
+                        "http://file08.mengtuiapp.com/1/wa/nXNs8zyhdQ==/1550978187.jpg?x-oss-process=style/avatar_p"
+                    ],
+                    "review_cnt": 1305,
+                    "reward_mark": "收货送50推币",
+                    "show_cart": true
+                }
+            },
+            {
+                "type": 0,
+                "goods": {
+                    "goods_id": "163985",
+                    "goods_name": "BVOMOL2019夏装新款时尚休闲竖条纹棉质男士短袖衬衫",
+                    "short_name": "",
+                    "thumb_url": "http://file06.mengtuiapp.com/1/201903/2658bd54ff7c67cc-800x800.jpg?x-oss-process=style/middle_p",
+                    "ethumb": {
+                        "img": "http://file06.mengtuiapp.com/1/201903/2658bd54ff7c67cc-800x800.jpg?x-oss-process=style/middle_p",
+                        "ratio": "1"
+                    },
+                    "market_price": 58900,
+                    "min_group_price": 6990,
+                    "min_normal_price": 6990,
+                    "min_price": 6990,
+                    "sales": 1329,
+                    "mall_id": 102555,
+                    "money_types": [
+                        0
+                    ],
+                    "footnote": "精致 优质棉",
+                    "coupon_mark": "可领券",
+                    "avatars": [
+                        "http://file04.mengtuiapp.com/1/wa/lHRt_jahcdg=/1553255562.jpg?x-oss-process=style/avatar_p",
+                        "http://file08.mengtuiapp.com/1/wa/lHNt_Dqneto=/1553692322.jpg?x-oss-process=style/avatar_p",
+                        "http://file04.mengtuiapp.com/1/wa/lHRg_Dqldtg=/1553427306.jpg?x-oss-process=style/avatar_p"
+                    ],
+                    "review_cnt": 20,
+                    "reward_mark": "",
+                    "show_cart": true
+                }
+            },
+            {
+                "type": 0,
+                "goods": {
+                    "goods_id": "181009",
+                    "goods_name": "BVOMOL夏季时尚休闲印花透气男士防晒衣外套",
+                    "short_name": "",
+                    "thumb_url": "http://file10.mengtuiapp.com/1/201905/2886fbba138bb4ca-800x800.jpg?x-oss-process=style/middle_p",
+                    "ethumb": {
+                        "img": "http://file10.mengtuiapp.com/1/201905/2886fbba138bb4ca-800x800.jpg?x-oss-process=style/middle_p",
+                        "ratio": "1"
+                    },
+                    "market_price": 19800,
+                    "min_group_price": 3900,
+                    "min_normal_price": 3900,
+                    "min_price": 3900,
+                    "sales": 1319,
+                    "mall_id": 102555,
+                    "money_types": [
+                        0
+                    ],
+                    "footnote": "优质透气 凉爽  舒适",
+                    "coupon_mark": "可领券",
+                    "avatars": [
+                        "http://file02.mengtuiapp.com/1/wa/lHNo8zyidtk=/1553519646.jpg?x-oss-process=style/avatar_p",
+                        "http://file03.mengtuiapp.com/1/wa/l35v_jinetw=/1558282790.jpg?x-oss-process=style/avatar_p",
+                        "http://file02.mengtuiapp.com/1/wa/lHBu_z-gcts=/1554909306.jpg?x-oss-process=style/avatar_p"
+                    ],
+                    "review_cnt": 9,
+                    "reward_mark": "",
+                    "show_cart": true
+                }
+            },
+            {
+                "type": 0,
+                "goods": {
+                    "goods_id": "163639",
+                    "goods_name": "BVOMOL夏装新款时尚休闲宽松迷彩男士中裤",
+                    "short_name": "",
+                    "thumb_url": "http://file10.mengtuiapp.com/1/201903/445d5a9240dbbed2-800x800.jpg?x-oss-process=style/middle_p",
+                    "ethumb": {
+                        "img": "http://file10.mengtuiapp.com/1/201903/445d5a9240dbbed2-800x800.jpg?x-oss-process=style/middle_p",
+                        "ratio": "1"
+                    },
+                    "market_price": 8900,
+                    "min_group_price": 950,
+                    "min_normal_price": 950,
+                    "min_price": 950,
+                    "sales": 1329,
+                    "mall_id": 102555,
+                    "money_types": [
+                        0
+                    ],
+                    "footnote": "潮流 时尚  透气",
+                    "coupon_mark": "可领券",
+                    "avatars": [
+                        "http://file01.mengtuiapp.com/1/wa/lHVh-T2jeto=/1552966613.jpg?x-oss-process=style/avatar_p",
+                        "http://file09.mengtuiapp.com/1/wa/lHFp-DqncNY=/1554353386.jpg?x-oss-process=style/avatar_p",
+                        "http://file04.mengtuiapp.com/1/wa/kn9u_jyjcg==/1550751941.jpg?x-oss-process=style/avatar_p"
+                    ],
+                    "review_cnt": 22,
+                    "reward_mark": "",
+                    "show_cart": true
+                }
+            },
+            {
+                "type": 0,
+                "goods": {
+                    "goods_id": "142437",
+                    "goods_name": "BVOMOL2019夏季新款韩版时尚休闲男士短袖T恤衫",
+                    "short_name": "",
+                    "thumb_url": "http://file07.mengtuiapp.com/1/201903/a21ce115fcc51ead-800x800.jpg?x-oss-process=style/middle_p",
+                    "ethumb": {
+                        "img": "http://file07.mengtuiapp.com/1/201903/a21ce115fcc51ead-800x800.jpg?x-oss-process=style/middle_p",
+                        "ratio": "1"
+                    },
+                    "market_price": 8900,
+                    "min_group_price": 970,
+                    "min_normal_price": 970,
+                    "min_price": 970,
+                    "sales": 1317,
+                    "mall_id": 102555,
+                    "money_types": [
+                        0
+                    ],
+                    "footnote": "潮流 印花 弹力",
+                    "coupon_mark": "可领券",
+                    "avatars": [
+                        "http://file10.mengtuiapp.com/1/wa/lHRv8zuhcto=/1553332190.jpg?x-oss-process=style/avatar_p",
+                        "http://file02.mengtuiapp.com/1/wa/lHNh-Tysd9c=/1553863913.jpg?x-oss-process=style/avatar_p",
+                        "http://file07.mengtuiapp.com/1/wa/lHZr8zmmcN8=/1552155929.jpg?x-oss-process=style/avatar_p"
+                    ],
+                    "review_cnt": 14,
+                    "reward_mark": "",
+                    "show_cart": true
+                }
+            },
+            {
+                "type": 0,
+                "goods": {
+                    "goods_id": "88169",
+                    "goods_name": "帅跑狼2019春夏新款韩版潮流百搭休闲运动跑步鞋男",
+                    "short_name": "",
+                    "thumb_url": "http://file10.mengtuiapp.com/1/201901/d99c7a3d06398522-800x800.jpg?x-oss-process=style/middle_p",
+                    "ethumb": {
+                        "img": "http://file10.mengtuiapp.com/1/201901/d99c7a3d06398522-800x800.jpg?x-oss-process=style/middle_p",
+                        "ratio": "1"
+                    },
+                    "market_price": 10800,
+                    "min_group_price": 3290,
+                    "min_normal_price": 3290,
+                    "min_price": 3290,
+                    "sales": 1212,
+                    "mall_id": 101311,
+                    "money_types": [
+                        0
+                    ],
+                    "footnote": "透气舒适、款式新颖",
+                    "marks": [
+                        {
+                            "text": "品牌",
+                            "style": 102
+                        }
+                    ],
+                    "avatars": [
+                        "http://file10.mengtuiapp.com/1/a/lHdp_zuhe9c=/1551580031.jpg?x-oss-process=style/avatar_p",
+                        "http://file06.mengtuiapp.com/1/a/lHdp-DetdNY=/1551578292.jpg?x-oss-process=style/avatar_p",
+                        "http://file03.mengtuiapp.com/1/wa/lHRp8zyle9o=/1553086975.jpg?x-oss-process=style/avatar_p"
+                    ],
+                    "review_cnt": 918,
+                    "reward_mark": "收货送150推币",
+                    "show_cart": true
+                }
+            }
+        ],
+        "opts": [
+            {
+                "id": 1081,
+                "name": "男鞋"
+            },
+            {
+                "id": 1082,
+                "name": "男士外套"
+            },
+            {
+                "id": 1084,
+                "name": "男士T恤"
+            },
+            {
+                "id": 1083,
+                "name": "男士衬衫"
+            },
+            {
+                "id": 1085,
+                "name": "针织毛衣"
+            },
+            {
+                "id": 1087,
+                "name": "男士卫衣"
+            },
+            {
+                "id": 1086,
+                "name": "男士裤装"
+            }
+        ],
+        "offset": "160",
+        "ctx": "c",
+        "title": "男装"
+    }
+}

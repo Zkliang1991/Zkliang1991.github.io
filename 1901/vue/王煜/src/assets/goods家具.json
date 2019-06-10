@@ -1,0 +1,329 @@
+{
+    "code": 0,
+    "time": 1559549836,
+    "data": {
+        "title": "家居",
+        "bricks": [
+            {
+                "brick_type": 3,
+                "brick_bottom_space": 2,
+                "layout": 7,
+                "posid": "995_t27_b3_i0|新品推荐TOP10",
+                "conf": {
+                    "title": "新品推荐TOP10",
+                    "vertical_title": "新品\n推荐\nTOP\n10",
+                    "title_icon": "",
+                    "logo": "",
+                    "link": "https://app.mengtuiapp.com/x/rank.html?nav=995",
+                    "items": [
+                        {
+                            "goods_id": "519785",
+                            "goods_name": "伊品妮压花四层抽纸巾抽纸4层*90抽*6包/18包（360张/包大容量）",
+                            "short_name": "",
+                            "thumb_url": "http://file.mengtuiapp.com/1/201905/b19fc537d6d42086-3000x3000.jpg?x-oss-process=style/middle_p",
+                            "hd_thumb_url": "",
+                            "event_type": 0,
+                            "market_price": 4990,
+                            "min_group_price": 1205,
+                            "min_normal_price": 1205,
+                            "min_price": 1205,
+                            "sales": 343,
+                            "mall_id": 105927,
+                            "money_types": [
+                                0
+                            ],
+                            "footnote": "加厚四层　精致压花",
+                            "mark": "",
+                            "tags": null,
+                            "avatars": [
+                                "http://file.mengtuiapp.com/1/wa/l3Fp_jmgdt8=/1557470095.jpg?x-oss-process=style/share_logo_p",
+                                "http://file.mengtuiapp.com/1/wa/lndo_T-he9Y=/1558535828.jpg?x-oss-process=style/share_logo_p"
+                            ],
+                            "limit": 0,
+                            "link": "https://app.mengtuiapp.com/x/rank.html?nav=995"
+                        },
+                        {
+                            "goods_id": "499017",
+                            "goods_name": "苏菲纯棉超长夜用超熟睡卫生巾420mm/4片*4包",
+                            "short_name": "",
+                            "thumb_url": "http://file.mengtuiapp.com/1/201905/d2051959c289553b-800x800.jpg?x-oss-process=style/middle_p",
+                            "hd_thumb_url": "http://file.mengtuiapp.com/1/201905/d2051959c289553b-800x800.jpg?x-oss-process=style/middle_p",
+                            "event_type": 0,
+                            "market_price": 6900,
+                            "min_group_price": 2680,
+                            "min_normal_price": 2680,
+                            "min_price": 2680,
+                            "sales": 114,
+                            "mall_id": 106154,
+                            "money_types": [
+                                0
+                            ],
+                            "footnote": "超长夜用      夜晚随心翻",
+                            "mark": "",
+                            "tags": null,
+                            "avatars": [
+                                "http://file.mengtuiapp.com/1/wa/l3Vh_T6let0=/1556552884.jpg?x-oss-process=style/share_logo_p",
+                                "http://file.mengtuiapp.com/1/wa/lHVs8zqgd9g=/1552839165.jpg?x-oss-process=style/share_logo_p"
+                            ],
+                            "limit": 0,
+                            "link": "https://app.mengtuiapp.com/x/rank.html?nav=995"
+                        },
+                        {
+                            "goods_id": "473299",
+                            "goods_name": "收纳博士冰箱保鲜收纳盒3件套",
+                            "short_name": "",
+                            "thumb_url": "http://file.mengtuiapp.com/1/201905/89fd1ff8095e5e2d-800x800.jpg?x-oss-process=style/middle_p",
+                            "hd_thumb_url": "",
+                            "event_type": 0,
+                            "market_price": 19900,
+                            "min_group_price": 3990,
+                            "min_normal_price": 3990,
+                            "min_price": 3990,
+                            "sales": 65,
+                            "mall_id": 103597,
+                            "money_types": [
+                                0
+                            ],
+                            "footnote": "1深盒2浅盒  日式杂粮密封",
+                            "mark": "",
+                            "tags": null,
+                            "avatars": [
+                                "http://file05.mengtuiapp.com/1/wa/l3Zr8jisd90=/1555934493.jpg?x-oss-process=style/share_logo_p",
+                                "http://file.mengtuiapp.com/1/wa/l35t_jmkcts=/1558224199.jpg?x-oss-process=style/share_logo_p"
+                            ],
+                            "limit": 0,
+                            "link": "https://app.mengtuiapp.com/x/rank.html?nav=995"
+                        },
+                        {
+                            "goods_id": "59549",
+                            "goods_name": "诺宁创可贴 超值50/100片",
+                            "short_name": "",
+                            "thumb_url": "http://file.mengtuiapp.com/1/201812/cb869546689b1590-740x740.jpg?x-oss-process=style/middle_p",
+                            "hd_thumb_url": "http://file.mengtuiapp.com/1/201812/cb869546689b1590-740x740.jpg?x-oss-process=style/middle_p",
+                            "event_type": 0,
+                            "market_price": 1500,
+                            "min_group_price": 550,
+                            "min_normal_price": 550,
+                            "min_price": 550,
+                            "sales": 6528,
+                            "mall_id": 101410,
+                            "money_types": [
+                                0
+                            ],
+                            "footnote": "居家必备创口贴创可贴",
+                            "mark": "",
+                            "tags": null,
+                            "avatars": [
+                                "http://file.mengtuiapp.com/1/wa/l3Ft_Dyid9w=/1557542459.jpg?x-oss-process=style/share_logo_p",
+                                "http://file.mengtuiapp.com/1/wa/l3Vo_zmgcg==/1544323847.jpg?x-oss-process=style/share_logo_p"
+                            ],
+                            "limit": 0,
+                            "recommend": {
+                                "avatar": "http://file.mengtuiapp.com/1/201809/eed333e24b685f37-700x700.jpg?x-oss-process=style/share_logo_p",
+                                "content": "白大飞推荐：超值诺宁创可贴，50和100片装。\r\n家里日常必备的单品，有个磕磕碰碰的以备不时之需。\r\n出门带着，"
+                            },
+                            "link": "https://app.mengtuiapp.com/x/rank.html?nav=995"
+                        },
+                        {
+                            "goods_id": "520785",
+                            "goods_name": "蜂窝凝胶坐垫厚通风教室办公室透气鸡蛋多功能夏天凉爽垫子凉垫夏季",
+                            "short_name": "",
+                            "thumb_url": "http://file.mengtuiapp.com/1/201905/1eccce568b54074d-760x760.jpg?x-oss-process=style/middle_p",
+                            "hd_thumb_url": "http://file.mengtuiapp.com/1/201905/1eccce568b54074d-760x760.jpg?x-oss-process=style/middle_p",
+                            "event_type": 0,
+                            "market_price": 15800,
+                            "min_group_price": 3690,
+                            "min_normal_price": 3690,
+                            "min_price": 3690,
+                            "sales": 83,
+                            "mall_id": 104310,
+                            "money_types": [
+                                0
+                            ],
+                            "footnote": "抖音爆款  消暑夏日 清新加厚",
+                            "mark": "",
+                            "tags": null,
+                            "avatars": [
+                                "http://file.mengtuiapp.com/1/wa/lHNv-zelcNo=/1553768181.jpg?x-oss-process=style/share_logo_p",
+                                "http://file.mengtuiapp.com/1/wa/l3Zh-Tumdt8=/1556160871.jpg?x-oss-process=style/share_logo_p"
+                            ],
+                            "limit": 0,
+                            "link": "https://app.mengtuiapp.com/x/rank.html?nav=995"
+                        },
+                        {
+                            "goods_id": "542722",
+                            "goods_name": "金雅涵家用经济型省空间多层收纳防尘鞋架子简易组装3/4/5层",
+                            "short_name": "",
+                            "thumb_url": "http://file.mengtuiapp.com/1/201905/838d18d3758bff36-640x640.jpg?x-oss-process=style/middle_p",
+                            "hd_thumb_url": "",
+                            "event_type": 0,
+                            "market_price": 4900,
+                            "min_group_price": 1390,
+                            "min_normal_price": 1390,
+                            "min_price": 1390,
+                            "sales": 127,
+                            "mall_id": 105616,
+                            "money_types": [
+                                0
+                            ],
+                            "footnote": "多层收纳 简约实用 省空间",
+                            "mark": "",
+                            "tags": null,
+                            "avatars": [
+                                "http://file.mengtuiapp.com/1/wa/l3Bt-z-te9c=/1557676548.jpg?x-oss-process=style/share_logo_p",
+                                "http://file.mengtuiapp.com/1/wa/lHJh-jytddk=/1554254648.jpg?x-oss-process=style/share_logo_p"
+                            ],
+                            "limit": 0,
+                            "link": "https://app.mengtuiapp.com/x/rank.html?nav=995"
+                        },
+                        {
+                            "goods_id": "713828",
+                            "goods_name": "琪采丝蜜儿竹纤维面巾纸300张*30包",
+                            "short_name": "",
+                            "thumb_url": "http://file.mengtuiapp.com/1/201905/b0f23e56c0f92e53-800x800.jpg?x-oss-process=style/middle_p",
+                            "hd_thumb_url": "http://file.mengtuiapp.com/1/201905/b0f23e56c0f92e53-800x800.jpg?x-oss-process=style/middle_p",
+                            "event_type": 0,
+                            "market_price": 6990,
+                            "min_group_price": 2960,
+                            "min_normal_price": 2960,
+                            "min_price": 2960,
+                            "sales": 136,
+                            "mall_id": 102385,
+                            "money_types": [
+                                0
+                            ],
+                            "footnote": "竹纤维，超柔韧",
+                            "mark": "",
+                            "tags": null,
+                            "avatars": [
+                                "http://file.mengtuiapp.com/1/wa/l3Zr-Dqget4=/1555920719.jpg?x-oss-process=style/share_logo_p",
+                                "http://file.mengtuiapp.com/1/wa/l3Nv8z6hctk=/1557189331.jpg?x-oss-process=style/share_logo_p"
+                            ],
+                            "limit": 0,
+                            "link": "https://app.mengtuiapp.com/x/rank.html?nav=995"
+                        },
+                        {
+                            "goods_id": "615702",
+                            "goods_name": "超能低泡植萃洗衣液500g*5/10袋",
+                            "short_name": "",
+                            "thumb_url": "http://file.mengtuiapp.com/1/201905/e8529b95e9598599-800x800.jpg?x-oss-process=style/middle_p",
+                            "hd_thumb_url": "",
+                            "event_type": 0,
+                            "market_price": 7290,
+                            "min_group_price": 3990,
+                            "min_normal_price": 3990,
+                            "min_price": 3990,
+                            "sales": 41,
+                            "mall_id": 103838,
+                            "money_types": [
+                                0
+                            ],
+                            "footnote": "低泡植萃",
+                            "mark": "",
+                            "tags": null,
+                            "avatars": [
+                                "http://file01.mengtuiapp.com/1/wa/k3Fh8zqndQ==/1550241100.jpg?x-oss-process=style/share_logo_p",
+                                "http://file.mengtuiapp.com/1/wa/lnRp8zygcdg=/1559516320.jpg?x-oss-process=style/share_logo_p"
+                            ],
+                            "limit": 0,
+                            "link": "https://app.mengtuiapp.com/x/rank.html?nav=995"
+                        },
+                        {
+                            "goods_id": "312075",
+                            "goods_name": "优诺康拔罐器24罐家用真空拔罐器 抽气式拔火罐磁疗加厚拔气罐",
+                            "short_name": "",
+                            "thumb_url": "http://file.mengtuiapp.com/1/201904/9654446f9590edd2-800x800.jpg?x-oss-process=style/middle_p",
+                            "hd_thumb_url": "http://file.mengtuiapp.com/1/201904/9654446f9590edd2-800x800.jpg?x-oss-process=style/middle_p",
+                            "event_type": 0,
+                            "market_price": 18800,
+                            "min_group_price": 4900,
+                            "min_normal_price": 4900,
+                            "min_price": 4900,
+                            "sales": 116,
+                            "mall_id": 105067,
+                            "money_types": [
+                                0
+                            ],
+                            "footnote": "新款升级，更安全大吸力",
+                            "mark": "",
+                            "coupon_mark": "可领券",
+                            "tags": null,
+                            "avatars": [
+                                "http://file.mengtuiapp.com/1/wa/lH9g-j6idds=/1555215107.jpg?x-oss-process=style/share_logo_p",
+                                "http://file.mengtuiapp.com/1/wa/l3Jg8jqnddg=/1557461914.jpg?x-oss-process=style/share_logo_p"
+                            ],
+                            "limit": 0,
+                            "link": "https://app.mengtuiapp.com/x/rank.html?nav=995"
+                        },
+                        {
+                            "goods_id": "287931",
+                            "goods_name": "up-hunceo原宿ins女士晴雨伞 大号折叠黑胶防晒伞 太阳伞 遮阳伞",
+                            "short_name": "",
+                            "thumb_url": "http://file01.mengtuiapp.com/1/201904/ce97eaa200e88cbb-800x800.jpg?x-oss-process=style/middle_p",
+                            "hd_thumb_url": "",
+                            "event_type": 0,
+                            "market_price": 9800,
+                            "min_group_price": 2980,
+                            "min_normal_price": 2980,
+                            "min_price": 2980,
+                            "sales": 113,
+                            "mall_id": 105332,
+                            "money_types": [
+                                0
+                            ],
+                            "footnote": "小清新风格 黑胶防晒 晴雨两用",
+                            "mark": "",
+                            "tags": null,
+                            "avatars": [
+                                "http://file.mengtuiapp.com/1/wa/l39o_Dqlc9s=/1557809105.jpg?x-oss-process=style/share_logo_p",
+                                "http://file.mengtuiapp.com/1/wa/l3Bg-TamcNs=/1557758730.jpg?x-oss-process=style/share_logo_p"
+                            ],
+                            "limit": 0,
+                            "link": "https://app.mengtuiapp.com/x/rank.html?nav=995"
+                        },
+                        {
+                            "goods_id": "262425",
+                            "goods_name": "婉婉大号木质四抽桌面化妆品收纳盒带镜子",
+                            "short_name": "",
+                            "thumb_url": "http://file01.mengtuiapp.com/1/201904/60fc2600b6b04a91-1080x1080.jpg?x-oss-process=style/middle_p",
+                            "hd_thumb_url": "",
+                            "event_type": 0,
+                            "market_price": 3500,
+                            "min_group_price": 2760,
+                            "min_normal_price": 2760,
+                            "min_price": 2760,
+                            "sales": 275,
+                            "mall_id": 105017,
+                            "money_types": [
+                                0
+                            ],
+                            "footnote": "创意抽屉式整理置物架",
+                            "mark": "",
+                            "reward_mark": "收货送150推币",
+                            "tags": null,
+                            "avatars": [
+                                "http://file.mengtuiapp.com/1/wa/l3Zu-jemdN8=/1556107666.jpg?x-oss-process=style/share_logo_p",
+                                "http://file10.mengtuiapp.com/1/wa/k3dt_Dqgcg==/1549781103.jpg?x-oss-process=style/share_logo_p"
+                            ],
+                            "limit": 0,
+                            "link": "https://app.mengtuiapp.com/x/rank.html?nav=995"
+                        }
+                    ],
+                    "background": {
+                        "url": "http://file05.mengtuiapp.com/1/201903/9c51e55eb20875f6-720x440.png",
+                        "ratio": "1.64"
+                    },
+                    "show_top_angle": true
+                }
+            }
+        ],
+        "offset": "",
+        "share_param": {
+            "link": "https://mobile.mengtuiapp.com/#/channels?id=995",
+            "title": "萌推-家居特惠专场",
+            "subtitle": "这个专场好多商品正在做活动，价格太给力了!",
+            "image": "http://file02.mengtuiapp.com/1/201802/1cf4920c173c68cd.png?x-oss-process=style/large_p",
+            "hint": ""
+        }
+    }
+}
