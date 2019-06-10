@@ -1,0 +1,80 @@
+<template>
+    <div>
+        <van-address-list
+            v-model="chosenAddressId"
+            :list="list"
+            :disabled-list="disabledList"
+            disabled-text="以下地址超出配送范围"
+            @add="onAdd"
+            @edit="onEdit"
+/>
+    </div>
+</template>
+
+
+<script>
+    export default {
+    data() {
+      return {
+        chosenAddressId: '1',
+        list: [],
+        disabledList: []
+      }
+    },
+    methods: {
+      onAdd() {
+        Toast('新增地址');
+      },
+      onEdit(item, index) {
+        Toast('编辑地址:' + index);
+      }
+    }
+  }
+</script>
+
+
+address(){
+  var shouhuoadd = document.getElementById("shouhuoadd");
+   var html = "";
+  this.$axios.get("/vue/address")
+     .then(res=>{
+       var username=document.getElementsByClassName("van-field__control")[0].value;
+   var usertel=document.getElementsByClassName("van-field__control")[1].value;
+   var address=document.getElementsByClassName("van-field__control")[2].value;
+   var xxdz=document.getElementsByClassName("van-field__control")[3].value;
+   var yzbm=document.getElementsByClassName("van-field__control")[4].value;
+   var bcdz=document.getElementsByClassName("van-cell__value")[5].value;
+
+html+= `<div>
+        <p><span>${username}</span><span>${usertel}</span><span>${yzbm}</span></p>
+        <p><span>${address}</span><span>${xxdz}</span></p>
+      </div>`;     
+ })
+shouhuoadd.innerHTML = html;  
+ 
+ 
+
+}  
+
+address(){
+  var shouhuoadd = document.getElementById("shouhuoadd");
+   var html = "";
+  this.$axios.get("/vue/address")
+     .then(res=>{
+       var username=document.getElementsByClassName("van-field__control")[0].value;
+   var usertel=document.getElementsByClassName("van-field__control")[1].value;
+   var address=document.getElementsByClassName("van-field__control")[2].value;
+   var xxdz=document.getElementsByClassName("van-field__control")[3].value;
+   var yzbm=document.getElementsByClassName("van-field__control")[4].value;
+   var bcdz=document.getElementsByClassName("van-cell__value")[5].value;
+
+html+= `<div>
+        <p><span>${username}</span><span>${usertel}</span><span>${yzbm}</span></p>
+        <p><span>${address}</span><span>${xxdz}</span></p>
+      </div>`;     
+ })
+shouhuoadd.innerHTML = html;  
+ 
+ 
+
+}  
