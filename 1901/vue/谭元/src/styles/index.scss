@@ -1,0 +1,22 @@
+
+
+@import "common";    //sass写法
+@import "animate.css";
+@import "mint-ui.css";
+@import "fonts/iconfont.css";
+
+
+
+$base_font:12px;   //基础字体函数声明
+$base_color:#333;  //基础字体颜色
+
+// 全局样式  golbal 
+
+html,body,#app,.box{
+    width:100vw;
+    height:100vh;
+}
+
+.box{
+    color:$base_color;
+}
