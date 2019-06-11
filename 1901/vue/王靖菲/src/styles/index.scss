@@ -1,0 +1,35 @@
+
+
+@import "common";
+
+
+// ui库css样式引入
+@import "vant-ui.css";
+
+
+
+
+
+
+
+
+$base_font:20px;
+$base_color:#333;
+
+// 全局样式  golbal 
+html,body,#app,.box{
+    width:100vw;
+    height:100vh;
+    font-family:Helvetica, SimHei;
+    background-color: white;
+
+}
+
+.box{
+    color:$base_color;
+}
+.kong{
+    height: 0.2rem;
+    background-color: rgb(246, 246, 246);
+    
+}
