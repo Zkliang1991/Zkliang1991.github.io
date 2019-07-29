@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Document</title>
+</head>
+<body>
+    <h4>
+        2. React-Redux 将所有组件分成两大类：
+        UI 组件（presentational component）
+        容器组件（container component）
+
+        3. UI 组件 
+        只负责 UI 的呈现，不带有任何业务逻辑
+        没有状态（即不使用this.state这个变量）
+        所有数据都由参数（this.props）提供
+        不使用任何 Redux 的 API
+        因为不含有状态，UI 组件又称为"纯组件"，即它纯函数一样，纯粹由参数决定它的值。
+
+        4. 容器组件  
+        负责管理数据和业务逻辑，不负责 UI 的呈现
+        带有内部状态
+        使用 Redux 的 API
+        PS: UI 组件负责 UI 的呈现，容器组件负责管理数据和逻辑
+        外面是一个容器组件，里面包了一个UI 组件
+        容器组件负责与外部的通信，将数据传给UI组件，由UI组件渲染出视图
+        所有的 UI 组件都由开发者 提供  容器组件则是由 React-Redux 自动生成
+
+
+        5. 生成容器组件  connect  
+        React-Redux 提供connect方法，用于从 UI 组件生成容器组件 
+        const VisibleTodoList = connect()(TodoList);   
+        高阶组件   必须把组件当做参数   容器组件 
+        高阶函数   这个函数必须把组件当做参数 这类 函数 ===> 高阶函数   connect 
+        （1）输入逻辑：外部的数据（即state对象）如何转换为 UI 组件的参数
+        （2）输出逻辑：用户发出的动作如何变为 Action 对象，从 UI 组件传出去。
+        mapStateToProps和mapDispatchToProps
+        mapStateToProps 负责输入逻辑，即将state映射到 UI 组件的参数（props）
+        mapDispatchToProps 负责输出逻辑 点击事件 操作映射成 Action 
+
+        6. mapStateToProps
+        建立一个从（外部的）state对象到（UI 组件的）props对象的映射关系 
+        负责把store state 通过props 传递给 UI 组件 
+        必须 返回一个对象
+        mapStateToProps会订阅 Store，每当state更新的时候，就会自动执行，
+        重新计算 UI 组件的参数，从而触发 UI 组件的重新渲染 
+        store.subscribe  替换 
+
+        7.mapDispatchToProps
+        用来建立 UI 组件的参数到store.dispatch方法的映射 负责发出action  
+        它定义了哪些用户的操作应该当作 Action，传给 Store。它可以是一个函数，也可以是一个对象。
+
+        8.Provide 
+        React-Redux 提供Provider组件，可以让所有 容器组件拿到state。 store 
+        所有子组件都可以获取到 context从而得到 store 
+    </h4>
+    <h2>
+        双向绑定原理
+        
+        vue的双向绑定是由数据劫持结合发布者－订阅者模式实现的，那么什么是数据劫持？vue是如何进行数据劫持的？说白了就是通过Object.defineProperty()来劫持对象属性的setter和getter操作，在数据变动时做你想要做的事情
+
+        我们已经知道实现数据的双向绑定，首先要对数据进行劫持监听，所以我们需要设置一个监听器Observer，用来监听所有属性。如果属性发生变化了，就需要告诉订阅者Watcher看是否需要更新。因为订阅者是有很多个，所以我们需要有一个消息订阅器Dep来专门收集这些订阅者，然后在监听器Observer和订阅者Watcher之间进行统一管理的。接着，我们还需要有一个指令解析器Compile，对每个节点元素进行扫描和解析，将相关指令（如v-model，v-on）对应初始化成一个订阅者Watcher，并替换模板数据或者绑定相应的函数，此时当订阅者Watcher接收到相应属性的变化，就会执行对应的更新函数，从而更新视图。因此接下去我们执行以下3个步骤，实现数据的双向绑定：
+
+        1.实现一个监听器Observer，用来劫持并监听所有属性，如果有变动的，就通知订阅者。
+
+        2.实现一个订阅者Watcher，每一个Watcher都绑定一个更新函数，watcher可以收到属性的变化通知并执行相应的函数，从而更新视图。
+
+        3.实现一个解析器Compile，可以扫描和解析每个节点的相关指令（v-model，v-on等指令），如果节点存在v-model，v-on等指令，则解析器Compile初始化这类节点的模板数据，使之可以显示在视图上，然后初始化相应的订阅者（Watcher）。
+    
+    </h2>
+</body>
+</html>
