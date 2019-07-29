@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>React总结</title>
+</head>
+<body>
+    <h1>React总结文档</h1>
+    <h3>React的特点和优势</h3>
+    <h4>虚拟DOM</h4>
+    <p>我们以前操作dom的方式是通过document.getElementById()的方式，这样的过程实际上是先去读取html的dom结构，将结构转换成变量，再进行操作</p>
+    
+    <p>而reactjs定义了一套变量形式的dom模型，一切操作和换算直接在变量中，这样减少了操作真实dom，性能真实相当的高，和主流MVC框架有本质的区别，并不和dom打交道</p>
+    
+    <h4>组件系统</h4>
+    react最核心的思想是将页面中任何一个区域或者元素都可以看做一个组件 component
+    
+    <p>那么什么是组件呢？</p>
+    
+    <p>组件指的就是同时包含了html、css、js、image元素的聚合体</p>
+    
+    <p>使用react开发的核心就是将页面拆分成若干个组件，并且react一个组件中同时耦合了css、js、image，这种模式整个颠覆了过去的传统的方式</p>
+    
+    <h4>单向数据流</h4> 
+    <p>其实reactjs的核心内容就是数据绑定，所谓数据绑定指的是只要将一些服务端的数据和前端页面绑定好，开发者只关注实现业务就行了</p>
+    
+    <h4>JSX 语法</h4>
+    <p>在vue中，我们使用render函数来构建组件的dom结构性能较高，因为省去了查找和编译模板的过程，但是在render中利用createElement创建结构的时候代码可读性较低，较为复杂，此时可以利用jsx语法来在render中创建dom，解决这个问题，但是前提是需要使用工具来编译jsx</p>
+    
+
+</body>
+</html>
